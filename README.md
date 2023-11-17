@@ -5,7 +5,7 @@ This repository contains the codebase and data for the research project titled "
 
 ### Paper of Inspiration
 Our study was inspired by a similar study called carried out in different districts in the US and some of the world's largest cities. If you want to read more about it here is the link to their paper and github repo.
-- Here is the [paper](https://arxiv.org/abs/2105.01764)
+- Here is the [paper](https://arxiv.org/abs/2105.01764).
 - Here is the [repo](https://github.com/stanford-policylab/surveilling-surveillance).
 
 
