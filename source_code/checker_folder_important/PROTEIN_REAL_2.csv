@@ -1,0 +1,1140 @@
+annotations,split,image_id,panoid,heading,gsv_image_path
+"[{'category_id': 1,'bbox':[424, 189, 454, 221],'bbox_mode': 0}]",train,image667139,667139,157,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_667139_157.jpg
+"[{'category_id': 1,'bbox':[248, 176, 283, 206],'bbox_mode': 0}]",train,image219233,219233,91,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_219233_91.jpg
+"[{'category_id': 1,'bbox':[307, 339, 340, 367],'bbox_mode': 0}]",train,image104986,104986,178,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_104986_178.jpg
+"[{'category_id': 1,'bbox':[33, 326, 63, 358],'bbox_mode': 0}]",train,image133300,133300,77,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_133300_77.jpg
+"[{'category_id': 1,'bbox':[566, 26, 609, 70],'bbox_mode': 0}]",train,image137255,137255,62,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_137255_62.jpg
+"[{'category_id': 1,'bbox':[182, 247, 211, 279],'bbox_mode': 0}]",train,image1042279,1042279,169,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1042279_169.jpg
+"[{'category_id': 1,'bbox':[106, 215, 140, 249],'bbox_mode': 0}]",train,image153575,153575,68,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_153575_68.jpg
+"[{'category_id': 1,'bbox':[256, 285, 290, 315],'bbox_mode': 0}]",train,image1639577,1639577,24,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1639577_24.jpg
+"[{'category_id': 1,'bbox':[0, 210, 36, 239],'bbox_mode': 0}]",train,image122692,122692,227,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_122692_227.jpg
+"[{'category_id': 1,'bbox':[111, 281, 144, 312],'bbox_mode': 0}]",train,image211087,211087,8,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_211087_8.jpg
+"[{'category_id': 1,'bbox':[229, 226, 269, 258],'bbox_mode': 0}]",train,image112810,112810,100,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_112810_100.jpg
+"[{'category_id': 1,'bbox':[396, 289, 424, 318],'bbox_mode': 0}]",train,image918673,918673,35,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_918673_35.jpg
+"[{'category_id': 1,'bbox':[237, 300, 255, 318],'bbox_mode': 0}]",train,image244529,244529,44,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_244529_44.jpg
+"[{'category_id': 1,'bbox':[402, 330, 432, 360],'bbox_mode': 0}]",train,image224241,224241,178,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_224241_178.jpg
+"[{'category_id': 1,'bbox':[293, 196, 324, 227],'bbox_mode': 0}]",train,image1306688,1306688,88,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1306688_88.jpg
+"[{'category_id': 1,'bbox':[558, 141, 593, 171],'bbox_mode': 0}]",train,image383686,383686,3,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_383686_3.jpg
+"[{'category_id': 1,'bbox':[403, 167, 440, 202],'bbox_mode': 0}]",train,image194477,194477,199,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_194477_199.jpg
+"[{'category_id': 1,'bbox':[81, 313, 123, 349],'bbox_mode': 0}]",train,image120706,120706,199,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_120706_199.jpg
+"[{'category_id': 1,'bbox':[147, 274, 175, 305],'bbox_mode': 0}]",train,image870782,870782,27,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_870782_27.jpg
+"[{'category_id': 1,'bbox':[556, 294, 586, 324],'bbox_mode': 0}]",train,image135518,135518,166,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_135518_166.jpg
+"[{'category_id': 1,'bbox':[52, 35, 83, 66],'bbox_mode': 0}]",train,image1313596,1313596,203,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1313596_203.jpg
+"[{'category_id': 1,'bbox':[146, 361, 175, 390],'bbox_mode': 0}]",train,image2328674,2328674,16,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_2328674_16.jpg
+"[{'category_id': 1,'bbox':[477, 332, 504, 358],'bbox_mode': 0}]",train,image127704,127704,166,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_127704_166.jpg
+"[{'category_id': 1,'bbox':[461, 344, 490, 374],'bbox_mode': 0}]",train,image153282,153282,121,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_153282_121.jpg
+"[{'category_id': 1,'bbox':[532, 95, 559, 124],'bbox_mode': 0}]",train,image383686,383686,3,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_383686_3.jpg
+"[{'category_id': 1,'bbox':[309, 327, 338, 356],'bbox_mode': 0}]",train,image138169,138169,59,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_138169_59.jpg
+"[{'category_id': 1,'bbox':[342, 213, 363, 229],'bbox_mode': 0}]",train,image207727,207727,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_207727_22.jpg
+"[{'category_id': 1,'bbox':[379, 302, 411, 335],'bbox_mode': 0}]",train,image109410,109410,59,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_109410_59.jpg
+"[{'category_id': 1,'bbox':[95, 302, 124, 330],'bbox_mode': 0}]",train,image1254927,1254927,177,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1254927_177.jpg
+"[{'category_id': 1,'bbox':[365, 278, 393, 305],'bbox_mode': 0}]",train,image218307,218307,84,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_218307_84.jpg
+"[{'category_id': 1,'bbox':[396, 336, 424, 369],'bbox_mode': 0}]",train,image127109,127109,37,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_127109_37.jpg
+"[{'category_id': 1,'bbox':[606, 172, 633, 199],'bbox_mode': 0}]",train,image102155,102155,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_102155_71.jpg
+"[{'category_id': 1,'bbox':[139, 270, 167, 298],'bbox_mode': 0}]",train,image104387,104387,73,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_104387_73.jpg
+"[{'category_id': 1,'bbox':[447, 317, 474, 344],'bbox_mode': 0}]",train,image240774,240774,6,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_240774_6.jpg
+"[{'category_id': 1,'bbox':[255, 350, 287, 381],'bbox_mode': 0}]",train,image101264,101264,57,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_101264_57.jpg
+"[{'category_id': 1,'bbox':[264, 348, 292, 377],'bbox_mode': 0}]",train,image129107,129107,31,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_129107_31.jpg
+"[{'category_id': 1,'bbox':[591, 274, 622, 303],'bbox_mode': 0}]",train,image125884,125884,58,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_125884_58.jpg
+"[{'category_id': 1,'bbox':[24, 270, 55, 302],'bbox_mode': 0}]",train,image974659,974659,245,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_974659_245.jpg
+"[{'category_id': 1,'bbox':[188, 296, 219, 325],'bbox_mode': 0}]",train,image126801,126801,229,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_126801_229.jpg
+"[{'category_id': 1,'bbox':[178, 201, 206, 236],'bbox_mode': 0}]",train,image215628,215628,47,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_215628_47.jpg
+"[{'category_id': 1,'bbox':[120, 306, 147, 334],'bbox_mode': 0}]",train,image668781,668781,70,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_668781_70.jpg
+"[{'category_id': 1,'bbox':[233, 300, 268, 329],'bbox_mode': 0}]",train,image115447,115447,69,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_115447_69.jpg
+"[{'category_id': 1,'bbox':[608, 111, 638, 142],'bbox_mode': 0}]",train,image384409,384409,32,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_384409_32.jpg
+"[{'category_id': 1,'bbox':[465, 276, 490, 303],'bbox_mode': 0}]",train,image141739,141739,38,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_141739_38.jpg
+"[{'category_id': 1,'bbox':[43, 279, 72, 309],'bbox_mode': 0}]",train,image110819,110819,235,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_110819_235.jpg
+"[{'category_id': 1,'bbox':[109, 146, 140, 182],'bbox_mode': 0}]",train,image1379686,1379686,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1379686_80.jpg
+"[{'category_id': 1,'bbox':[486, 311, 525, 340],'bbox_mode': 0}]",train,image123021,123021,162,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_123021_162.jpg
+"[{'category_id': 1,'bbox':[549, 312, 579, 343],'bbox_mode': 0}]",train,image137728,137728,116,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_137728_116.jpg
+"[{'category_id': 1,'bbox':[7, 281, 48, 314],'bbox_mode': 0}]",train,image164272,164272,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_164272_71.jpg
+"[{'category_id': 1,'bbox':[70, 248, 104, 281],'bbox_mode': 0}]",train,image117890,117890,9,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_117890_9.jpg
+"[{'category_id': 1,'bbox':[187, 207, 226, 241],'bbox_mode': 0}]",train,image153575,153575,68,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_153575_68.jpg
+"[{'category_id': 1,'bbox':[601, 232, 636, 264],'bbox_mode': 0}]",train,image209118,209118,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_209118_0.jpg
+"[{'category_id': 1,'bbox':[366, 232, 395, 265],'bbox_mode': 0}]",train,image120634,120634,174,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_120634_174.jpg
+"[{'category_id': 1,'bbox':[169, 138, 203, 171],'bbox_mode': 0}]",train,image110048,110048,65,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_110048_65.jpg
+"[{'category_id': 1,'bbox':[389, 334, 419, 369],'bbox_mode': 0}]",train,image138822,138822,36,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_138822_36.jpg
+"[{'category_id': 1,'bbox':[35, 298, 63, 326],'bbox_mode': 0}]",train,image1198360,1198360,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1198360_22.jpg
+"[{'category_id': 1,'bbox':[517, 287, 548, 315],'bbox_mode': 0}]",train,image1063243,1063243,195,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1063243_195.jpg
+"[{'category_id': 1,'bbox':[147, 274, 175, 302],'bbox_mode': 0}]",train,image2694211,2694211,54,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_2694211_54.jpg
+"[{'category_id': 1,'bbox':[170, 300, 202, 329],'bbox_mode': 0}]",train,image210262,210262,16,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_210262_16.jpg
+"[{'category_id': 1,'bbox':[249, 94, 275, 122],'bbox_mode': 0}]",train,image753947,753947,243,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_753947_243.jpg
+"[{'category_id': 1,'bbox':[137, 122, 193, 161],'bbox_mode': 0}]",train,image1002225,1002225,100,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1002225_100.jpg
+"[{'category_id': 1,'bbox':[511, 324, 526, 336],'bbox_mode': 0}]",train,image208609,208609,166,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_208609_166.jpg
+"[{'category_id': 1,'bbox':[98, 290, 128, 321],'bbox_mode': 0}]",train,image108181,108181,11,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_108181_11.jpg
+"[{'category_id': 1,'bbox':[422, 326, 454, 353],'bbox_mode': 0}]",train,image328950,328950,58,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_328950_58.jpg
+"[{'category_id': 1,'bbox':[206, 273, 234, 301],'bbox_mode': 0}]",train,image235585,235585,59,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_235585_59.jpg
+"[{'category_id': 1,'bbox':[238, 179, 271, 210],'bbox_mode': 0}]",train,image219233,219233,91,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_219233_91.jpg
+"[{'category_id': 1,'bbox':[236, 230, 264, 259],'bbox_mode': 0}]",train,image604531,604531,157,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_604531_157.jpg
+"[{'category_id': 1,'bbox':[295, 269, 326, 302],'bbox_mode': 0}]",train,image776193,776193,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_776193_72.jpg
+"[{'category_id': 1,'bbox':[610, 335, 639, 364],'bbox_mode': 0}]",train,image104728,104728,21,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_104728_21.jpg
+"[{'category_id': 1,'bbox':[113, 286, 142, 315],'bbox_mode': 0}]",train,image711887,711887,55,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_711887_55.jpg
+"[{'category_id': 1,'bbox':[430, 306, 460, 335],'bbox_mode': 0}]",train,image214201,214201,93,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_214201_93.jpg
+"[{'category_id': 1,'bbox':[150, 87, 177, 118],'bbox_mode': 0}]",train,image656430,656430,175,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_656430_175.jpg
+"[{'category_id': 1,'bbox':[446, 212, 478, 240],'bbox_mode': 0}]",train,image1087701,1087701,64,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1087701_64.jpg
+"[{'category_id': 1,'bbox':[384, 337, 412, 363],'bbox_mode': 0}]",train,image104311,104311,175,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_104311_175.jpg
+"[{'category_id': 1,'bbox':[56, 183, 83, 212],'bbox_mode': 0}]",train,image373741,373741,219,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_373741_219.jpg
+"[{'category_id': 1,'bbox':[291, 294, 319, 324],'bbox_mode': 0}]",train,image120117,120117,23,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_120117_23.jpg
+"[{'category_id': 1,'bbox':[83, 306, 116, 335],'bbox_mode': 0}]",train,image131212,131212,137,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_131212_137.jpg
+"[{'category_id': 1,'bbox':[395, 267, 428, 303],'bbox_mode': 0}]",train,image824747,824747,140,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_824747_140.jpg
+"[{'category_id': 1,'bbox':[212, 254, 245, 289],'bbox_mode': 0}]",train,image1702928,1702928,210,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1702928_210.jpg
+"[{'category_id': 1,'bbox':[296, 348, 324, 375],'bbox_mode': 0}]",train,image221601,221601,269,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_221601_269.jpg
+"[{'category_id': 1,'bbox':[213, 205, 244, 244],'bbox_mode': 0}]",train,image713184,713184,77,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_713184_77.jpg
+"[{'category_id': 1,'bbox':[173, 263, 201, 292],'bbox_mode': 0}]",train,image120940,120940,165,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_120940_165.jpg
+"[{'category_id': 1,'bbox':[520, 292, 559, 328],'bbox_mode': 0}]",train,image145829,145829,26,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_145829_26.jpg
+"[{'category_id': 1,'bbox':[220, 320, 255, 352],'bbox_mode': 0}]",train,image133835,133835,129,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_133835_129.jpg
+"[{'category_id': 1,'bbox':[592, 313, 623, 340],'bbox_mode': 0}]",train,image721371,721371,74,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_721371_74.jpg
+"[{'category_id': 1,'bbox':[165, 247, 195, 280],'bbox_mode': 0}]",train,image1042279,1042279,169,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1042279_169.jpg
+"[{'category_id': 1,'bbox':[326, 242, 359, 270],'bbox_mode': 0}]",train,image110268,110268,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_110268_71.jpg
+"[{'category_id': 1,'bbox':[79, 292, 115, 322],'bbox_mode': 0}]",train,image198909,198909,47,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_198909_47.jpg
+"[{'category_id': 1,'bbox':[209, 180, 238, 212],'bbox_mode': 0}]",train,image1305716,1305716,157,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1305716_157.jpg
+"[{'category_id': 1,'bbox':[334, 135, 362, 167],'bbox_mode': 0}]",train,image165679,165679,119,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_165679_119.jpg
+"[{'category_id': 1,'bbox':[612, 293, 640, 324],'bbox_mode': 0}]",train,image380359,380359,183,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_380359_183.jpg
+"[{'category_id': 1,'bbox':[341, 281, 370, 311],'bbox_mode': 0}]",train,image225775,225775,225,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_225775_225.jpg
+"[{'category_id': 1,'bbox':[38, 340, 67, 369],'bbox_mode': 0}]",train,image150948,150948,68,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_150948_68.jpg
+"[{'category_id': 1,'bbox':[236, 180, 267, 210],'bbox_mode': 0}]",train,image1658217,1658217,91,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1658217_91.jpg
+"[{'category_id': 1,'bbox':[162, 340, 190, 367],'bbox_mode': 0}]",train,image371288,371288,74,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_371288_74.jpg
+"[{'category_id': 1,'bbox':[453, 299, 482, 328],'bbox_mode': 0}]",train,image152172,152172,89,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_152172_89.jpg
+"[{'category_id': 1,'bbox':[103, 330, 129, 356],'bbox_mode': 0}]",train,image335911,335911,43,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_335911_43.jpg
+"[{'category_id': 1,'bbox':[398, 123, 441, 156],'bbox_mode': 0}]",train,image138362,138362,81,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_138362_81.jpg
+"[{'category_id': 1,'bbox':[256, 325, 282, 350],'bbox_mode': 0}]",train,image325995,325995,258,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_325995_258.jpg
+"[{'category_id': 1,'bbox':[189, 78, 215, 107],'bbox_mode': 0}]",train,image605422,605422,79,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_605422_79.jpg
+"[{'category_id': 1,'bbox':[189, 350, 201, 366],'bbox_mode': 0}]",train,image388482,388482,123,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_388482_123.jpg
+"[{'category_id': 1,'bbox':[180, 256, 211, 289],'bbox_mode': 0}]",train,image139830,139830,153,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_139830_153.jpg
+"[{'category_id': 1,'bbox':[466, 264, 488, 284],'bbox_mode': 0}]",train,image155574,155574,201,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_155574_201.jpg
+"[{'category_id': 1,'bbox':[527, 322, 558, 351],'bbox_mode': 0}]",train,image132664,132664,51,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_132664_51.jpg
+"[{'category_id': 1,'bbox':[344, 295, 373, 325],'bbox_mode': 0}]",train,image117804,117804,93,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_117804_93.jpg
+"[{'category_id': 1,'bbox':[6, 282, 48, 314],'bbox_mode': 0}]",train,image208118,208118,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_208118_71.jpg
+"[{'category_id': 1,'bbox':[495, 253, 532, 288],'bbox_mode': 0}]",train,image119104,119104,35,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_119104_35.jpg
+"[{'category_id': 1,'bbox':[497, 161, 525, 194],'bbox_mode': 0}]",train,image750294,750294,136,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_750294_136.jpg
+"[{'category_id': 1,'bbox':[86, 290, 114, 320],'bbox_mode': 0}]",train,image736085,736085,106,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_736085_106.jpg
+"[{'category_id': 1,'bbox':[80, 322, 114, 352],'bbox_mode': 0}]",train,image104416,104416,78,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_104416_78.jpg
+"[{'category_id': 1,'bbox':[397, 182, 438, 214],'bbox_mode': 0}]",train,image103202,103202,54,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_103202_54.jpg
+"[{'category_id': 1,'bbox':[242, 293, 271, 323],'bbox_mode': 0}]",train,image343553,343553,224,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_343553_224.jpg
+"[{'category_id': 1,'bbox':[526, 228, 560, 258],'bbox_mode': 0}]",train,image1438243,1438243,196,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1438243_196.jpg
+"[{'category_id': 1,'bbox':[288, 105, 321, 138],'bbox_mode': 0}]",train,image123021,123021,162,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_123021_162.jpg
+"[{'category_id': 1,'bbox':[338, 260, 364, 289],'bbox_mode': 0}]",train,image115520,115520,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_115520_22.jpg
+"[{'category_id': 1,'bbox':[61, 305, 80, 321],'bbox_mode': 0}]",train,image236834,236834,5,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_236834_5.jpg
+"[{'category_id': 1,'bbox':[346, 169, 379, 199],'bbox_mode': 0}]",train,image134304,134304,106,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_134304_106.jpg
+"[{'category_id': 1,'bbox':[192, 311, 218, 337],'bbox_mode': 0}]",train,image348870,348870,137,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_348870_137.jpg
+"[{'category_id': 1,'bbox':[456, 328, 485, 356],'bbox_mode': 0}]",train,image238790,238790,103,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_238790_103.jpg
+"[{'category_id': 1,'bbox':[65, 23, 97, 61],'bbox_mode': 0}]",train,image133142,133142,68,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_133142_68.jpg
+"[{'category_id': 1,'bbox':[362, 115, 387, 143],'bbox_mode': 0}]",train,image209408,209408,58,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_209408_58.jpg
+"[{'category_id': 1,'bbox':[414, 327, 440, 355],'bbox_mode': 0}]",train,image133128,133128,35,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_133128_35.jpg
+"[{'category_id': 1,'bbox':[65, 259, 98, 294],'bbox_mode': 0}]",train,image126220,126220,35,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_126220_35.jpg
+"[{'category_id': 1,'bbox':[234, 184, 268, 220],'bbox_mode': 0}]",train,image245920,245920,41,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_245920_41.jpg
+"[{'category_id': 1,'bbox':[335, 331, 364, 359],'bbox_mode': 0}]",train,image114387,114387,29,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_114387_29.jpg
+"[{'category_id': 1,'bbox':[380, 327, 412, 357],'bbox_mode': 0}]",train,image238183,238183,87,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_238183_87.jpg
+"[{'category_id': 1,'bbox':[193, 319, 231, 351],'bbox_mode': 0}]",train,image133835,133835,129,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_133835_129.jpg
+"[{'category_id': 1,'bbox':[86, 316, 116, 347],'bbox_mode': 0}]",train,image323766,323766,47,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_323766_47.jpg
+"[{'category_id': 1,'bbox':[362, 115, 387, 143],'bbox_mode': 0}]",train,image350624,350624,58,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_350624_58.jpg
+"[{'category_id': 1,'bbox':[568, 298, 597, 325],'bbox_mode': 0}]",train,image758420,758420,181,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_758420_181.jpg
+"[{'category_id': 1,'bbox':[277, 288, 309, 316],'bbox_mode': 0}]",train,image611934,611934,10,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_611934_10.jpg
+"[{'category_id': 1,'bbox':[512, 145, 544, 180],'bbox_mode': 0}]",train,image1379686,1379686,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1379686_80.jpg
+"[{'category_id': 1,'bbox':[47, 226, 85, 256],'bbox_mode': 0}]",train,image247859,247859,227,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_247859_227.jpg
+"[{'category_id': 1,'bbox':[404, 353, 432, 381],'bbox_mode': 0}]",train,image118078,118078,47,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_118078_47.jpg
+"[{'category_id': 1,'bbox':[515, 342, 542, 368],'bbox_mode': 0}]",train,image131537,131537,131,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_131537_131.jpg
+"[{'category_id': 1,'bbox':[159, 321, 192, 355],'bbox_mode': 0}]",train,image371401,371401,215,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_371401_215.jpg
+"[{'category_id': 1,'bbox':[573, 229, 605, 267],'bbox_mode': 0}]",train,image148031,148031,20,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_148031_20.jpg
+"[{'category_id': 1,'bbox':[97, 280, 125, 310],'bbox_mode': 0}]",train,image2689663,2689663,108,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_2689663_108.jpg
+"[{'category_id': 1,'bbox':[132, 279, 161, 308],'bbox_mode': 0}]",train,image164134,164134,95,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_164134_95.jpg
+"[{'category_id': 1,'bbox':[438, 63, 490, 94],'bbox_mode': 0}]",train,image115860,115860,2,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_115860_2.jpg
+"[{'category_id': 1,'bbox':[62, 309, 91, 339],'bbox_mode': 0}]",train,image126555,126555,43,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_126555_43.jpg
+"[{'category_id': 1,'bbox':[23, 286, 52, 317],'bbox_mode': 0}]",train,image225656,225656,235,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_225656_235.jpg
+"[{'category_id': 1,'bbox':[217, 294, 244, 321],'bbox_mode': 0}]",train,image231656,231656,86,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_231656_86.jpg
+"[{'category_id': 1,'bbox':[488, 245, 516, 274],'bbox_mode': 0}]",train,image123302,123302,217,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_123302_217.jpg
+"[{'category_id': 1,'bbox':[333, 72, 372, 114],'bbox_mode': 0}]",train,image383707,383707,78,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_383707_78.jpg
+"[{'category_id': 1,'bbox':[541, 361, 575, 392],'bbox_mode': 0}]",train,image1040783,1040783,10,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1040783_10.jpg
+"[{'category_id': 1,'bbox':[271, 324, 313, 354],'bbox_mode': 0}]",train,image160852,160852,250,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_160852_250.jpg
+"[{'category_id': 1,'bbox':[586, 308, 613, 335],'bbox_mode': 0}]",train,image235988,235988,77,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_235988_77.jpg
+"[{'category_id': 1,'bbox':[48, 155, 75, 181],'bbox_mode': 0}]",train,image395944,395944,174,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_395944_174.jpg
+"[{'category_id': 1,'bbox':[462, 306, 492, 335],'bbox_mode': 0}]",train,image124259,124259,155,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_124259_155.jpg
+"[{'category_id': 1,'bbox':[247, 177, 280, 209],'bbox_mode': 0}]",train,image1658217,1658217,91,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1658217_91.jpg
+"[{'category_id': 1,'bbox':[575, 293, 605, 322],'bbox_mode': 0}]",train,image219966,219966,157,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_219966_157.jpg
+"[{'category_id': 1,'bbox':[44, 288, 89, 328],'bbox_mode': 0}]",train,image1019605,1019605,188,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1019605_188.jpg
+"[{'category_id': 1,'bbox':[55, 48, 84, 81],'bbox_mode': 0}]",train,image680198,680198,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_680198_0.jpg
+"[{'category_id': 1,'bbox':[92, 322, 119, 349],'bbox_mode': 0}]",train,image1380768,1380768,1,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1380768_1.jpg
+"[{'category_id': 1,'bbox':[518, 303, 547, 333],'bbox_mode': 0}]",train,image99556,99556,123,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_99556_123.jpg
+"[{'category_id': 1,'bbox':[201, 267, 228, 296],'bbox_mode': 0}]",train,image408333,408333,73,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_408333_73.jpg
+"[{'category_id': 1,'bbox':[338, 320, 378, 359],'bbox_mode': 0}]",train,image714096,714096,238,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_714096_238.jpg
+"[{'category_id': 1,'bbox':[368, 322, 393, 348],'bbox_mode': 0}]",train,image101669,101669,95,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_101669_95.jpg
+"[{'category_id': 1,'bbox':[214, 335, 245, 366],'bbox_mode': 0}]",train,image695146,695146,73,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_695146_73.jpg
+"[{'category_id': 1,'bbox':[446, 313, 464, 328],'bbox_mode': 0}]",train,image697917,697917,90,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_697917_90.jpg
+"[{'category_id': 1,'bbox':[362, 330, 389, 358],'bbox_mode': 0}]",train,image146495,146495,263,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_146495_263.jpg
+"[{'category_id': 1,'bbox':[64, 482, 97, 509],'bbox_mode': 0}]",train,image163587,163587,10,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_163587_10.jpg
+"[{'category_id': 1,'bbox':[560, 310, 592, 341],'bbox_mode': 0}]",train,image143366,143366,17,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_143366_17.jpg
+"[{'category_id': 1,'bbox':[204, 26, 233, 59],'bbox_mode': 0}]",train,image126577,126577,48,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_126577_48.jpg
+"[{'category_id': 1,'bbox':[539, 234, 568, 261],'bbox_mode': 0}]",train,image324814,324814,89,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_324814_89.jpg
+"[{'category_id': 1,'bbox':[359, 304, 386, 335],'bbox_mode': 0}]",train,image2183409,2183409,56,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_2183409_56.jpg
+"[{'category_id': 1,'bbox':[222, 322, 229, 332],'bbox_mode': 0}]",train,image348870,348870,137,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_348870_137.jpg
+"[{'category_id': 1,'bbox':[193, 260, 232, 291],'bbox_mode': 0}]",train,image957401,957401,253,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_957401_253.jpg
+"[{'category_id': 1,'bbox':[44, 288, 89, 328],'bbox_mode': 0}]",train,image341527,341527,188,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_341527_188.jpg
+"[{'category_id': 1,'bbox':[119, 250, 146, 277],'bbox_mode': 0}]",train,image814299,814299,168,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_814299_168.jpg
+"[{'category_id': 1,'bbox':[188, 341, 223, 374],'bbox_mode': 0}]",train,image115310,115310,159,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_115310_159.jpg
+"[{'category_id': 1,'bbox':[611, 287, 636, 314],'bbox_mode': 0}]",train,image384409,384409,32,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_384409_32.jpg
+"[{'category_id': 1,'bbox':[475, 93, 506, 126],'bbox_mode': 0}]",train,image899827,899827,7,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_899827_7.jpg
+"[{'category_id': 1,'bbox':[132, 389, 172, 419],'bbox_mode': 0}]",train,image103640,103640,227,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_103640_227.jpg
+"[{'category_id': 1,'bbox':[485, 320, 516, 351],'bbox_mode': 0}]",train,image129463,129463,45,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_129463_45.jpg
+"[{'category_id': 1,'bbox':[40, 88, 71, 120],'bbox_mode': 0}]",train,image245556,245556,192,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_245556_192.jpg
+"[{'category_id': 1,'bbox':[37, 221, 74, 253],'bbox_mode': 0}]",train,image2694211,2694211,54,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_2694211_54.jpg
+"[{'category_id': 1,'bbox':[116, 279, 144, 306],'bbox_mode': 0}]",train,image139119,139119,15,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_139119_15.jpg
+"[{'category_id': 1,'bbox':[157, 318, 188, 349],'bbox_mode': 0}]",train,image1303272,1303272,215,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1303272_215.jpg
+"[{'category_id': 1,'bbox':[261, 270, 293, 305],'bbox_mode': 0}]",train,image139282,139282,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_139282_72.jpg
+"[{'category_id': 1,'bbox':[568, 296, 598, 327],'bbox_mode': 0}]",train,image350232,350232,223,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_350232_223.jpg
+"[{'category_id': 1,'bbox':[432, 330, 458, 357],'bbox_mode': 0}]",train,image216252,216252,189,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_216252_189.jpg
+"[{'category_id': 1,'bbox':[228, 339, 258, 371],'bbox_mode': 0}]",train,image110605,110605,61,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_110605_61.jpg
+"[{'category_id': 1,'bbox':[328, 257, 364, 287],'bbox_mode': 0}]",train,image105158,105158,87,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_105158_87.jpg
+"[{'category_id': 1,'bbox':[230, 304, 263, 332],'bbox_mode': 0}]",train,image634746,634746,89,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_634746_89.jpg
+"[{'category_id': 1,'bbox':[464, 271, 492, 302],'bbox_mode': 0}]",train,image100165,100165,108,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_100165_108.jpg
+"[{'category_id': 1,'bbox':[455, 283, 482, 312],'bbox_mode': 0}]",train,image403408,403408,155,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_403408_155.jpg
+"[{'category_id': 1,'bbox':[219, 301, 246, 329],'bbox_mode': 0}]",train,image345505,345505,181,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_345505_181.jpg
+"[{'category_id': 1,'bbox':[195, 233, 233, 247],'bbox_mode': 0}]",train,image382158,382158,131,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_382158_131.jpg
+"[{'category_id': 1,'bbox':[249, 94, 275, 122],'bbox_mode': 0}]",train,image144302,144302,243,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_144302_243.jpg
+"[{'category_id': 1,'bbox':[547, 278, 579, 307],'bbox_mode': 0}]",train,image623189,623189,237,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_623189_237.jpg
+"[{'category_id': 1,'bbox':[195, 209, 230, 240],'bbox_mode': 0}]",train,image141509,141509,73,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_141509_73.jpg
+"[{'category_id': 1,'bbox':[501, 267, 534, 297],'bbox_mode': 0}]",train,image147706,147706,11,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_147706_11.jpg
+"[{'category_id': 1,'bbox':[614, 293, 640, 325],'bbox_mode': 0}]",train,image156595,156595,219,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_156595_219.jpg
+"[{'category_id': 1,'bbox':[0, 325, 27, 353],'bbox_mode': 0}]",train,image656891,656891,45,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_656891_45.jpg
+"[{'category_id': 1,'bbox':[260, 332, 291, 360],'bbox_mode': 0}]",train,image159698,159698,232,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_159698_232.jpg
+"[{'category_id': 1,'bbox':[294, 198, 326, 228],'bbox_mode': 0}]",train,image150242,150242,63,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_150242_63.jpg
+"[{'category_id': 1,'bbox':[26, 342, 55, 368],'bbox_mode': 0}]",train,image375803,375803,58,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_375803_58.jpg
+"[{'category_id': 1,'bbox':[213, 333, 243, 361],'bbox_mode': 0}]",train,image343497,343497,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_343497_72.jpg
+"[{'category_id': 1,'bbox':[516, 292, 546, 322],'bbox_mode': 0}]",train,image235062,235062,73,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_235062_73.jpg
+"[{'category_id': 1,'bbox':[455, 335, 482, 363],'bbox_mode': 0}]",train,image139170,139170,170,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_139170_170.jpg
+"[{'category_id': 1,'bbox':[190, 211, 228, 241],'bbox_mode': 0}]",train,image766617,766617,18,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_766617_18.jpg
+"[{'category_id': 1,'bbox':[543, 322, 574, 350],'bbox_mode': 0}]",train,image135878,135878,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_135878_80.jpg
+"[{'category_id': 1,'bbox':[30, 171, 58, 206],'bbox_mode': 0}]",train,image827480,827480,230,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_827480_230.jpg
+"[{'category_id': 1,'bbox':[206, 322, 234, 351],'bbox_mode': 0}]",train,image746274,746274,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_746274_22.jpg
+"[{'category_id': 1,'bbox':[15, 330, 46, 359],'bbox_mode': 0}]",train,image134825,134825,203,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_134825_203.jpg
+"[{'category_id': 1,'bbox':[455, 274, 483, 305],'bbox_mode': 0}]",train,image117199,117199,213,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_117199_213.jpg
+"[{'category_id': 1,'bbox':[152, 325, 181, 352],'bbox_mode': 0}]",train,image1383853,1383853,175,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1383853_175.jpg
+"[{'category_id': 1,'bbox':[603, 236, 634, 267],'bbox_mode': 0}]",train,image119661,119661,40,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_119661_40.jpg
+"[{'category_id': 1,'bbox':[84, 191, 112, 222],'bbox_mode': 0}]",train,image130471,130471,46,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_130471_46.jpg
+"[{'category_id': 1,'bbox':[420, 335, 452, 365],'bbox_mode': 0}]",train,image124137,124137,181,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_124137_181.jpg
+"[{'category_id': 1,'bbox':[150, 327, 178, 354],'bbox_mode': 0}]",train,image161533,161533,109,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_161533_109.jpg
+"[{'category_id': 1,'bbox':[140, 308, 170, 338],'bbox_mode': 0}]",train,image325277,325277,48,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_325277_48.jpg
+"[{'category_id': 1,'bbox':[327, 262, 366, 296],'bbox_mode': 0}]",train,image925674,925674,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_925674_80.jpg
+"[{'category_id': 1,'bbox':[547, 279, 579, 307],'bbox_mode': 0}]",train,image148327,148327,122,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_148327_122.jpg
+"[{'category_id': 1,'bbox':[218, 207, 246, 234],'bbox_mode': 0}]",train,image230849,230849,256,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_230849_256.jpg
+"[{'category_id': 1,'bbox':[170, 73, 204, 104],'bbox_mode': 0}]",train,image140171,140171,65,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_140171_65.jpg
+"[{'category_id': 1,'bbox':[354, 262, 380, 291],'bbox_mode': 0}]",train,image115520,115520,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_115520_22.jpg
+"[{'category_id': 1,'bbox':[271, 291, 301, 321],'bbox_mode': 0}]",train,image366856,366856,67,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_366856_67.jpg
+"[{'category_id': 1,'bbox':[126, 368, 136, 376],'bbox_mode': 0}]",train,image405287,405287,104,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_405287_104.jpg
+"[{'category_id': 1,'bbox':[271, 317, 299, 344],'bbox_mode': 0}]",train,image343056,343056,217,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_343056_217.jpg
+"[{'category_id': 1,'bbox':[47, 299, 84, 332],'bbox_mode': 0}]",train,image391521,391521,209,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_391521_209.jpg
+"[{'category_id': 1,'bbox':[370, 360, 399, 391],'bbox_mode': 0}]",train,image138337,138337,245,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_138337_245.jpg
+"[{'category_id': 1,'bbox':[471, 319, 501, 347],'bbox_mode': 0}]",train,image907743,907743,223,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_907743_223.jpg
+"[{'category_id': 1,'bbox':[235, 300, 268, 329],'bbox_mode': 0}]",train,image1062129,1062129,67,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1062129_67.jpg
+"[{'category_id': 1,'bbox':[145, 299, 184, 333],'bbox_mode': 0}]",train,image217197,217197,168,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_217197_168.jpg
+"[{'category_id': 1,'bbox':[331, 261, 360, 293],'bbox_mode': 0}]",train,image114109,114109,121,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_114109_121.jpg
+"[{'category_id': 1,'bbox':[229, 257, 258, 286],'bbox_mode': 0}]",train,image110067,110067,192,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_110067_192.jpg
+"[{'category_id': 1,'bbox':[516, 297, 547, 329],'bbox_mode': 0}]",train,image109582,109582,34,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_109582_34.jpg
+"[{'category_id': 1,'bbox':[412, 306, 438, 334],'bbox_mode': 0}]",train,image131886,131886,103,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_131886_103.jpg
+"[{'category_id': 1,'bbox':[169, 336, 195, 363],'bbox_mode': 0}]",train,image131349,131349,202,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_131349_202.jpg
+"[{'category_id': 1,'bbox':[599, 302, 631, 333],'bbox_mode': 0}]",train,image152482,152482,40,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_152482_40.jpg
+"[{'category_id': 1,'bbox':[153, 339, 180, 368],'bbox_mode': 0}]",train,image207616,207616,43,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_207616_43.jpg
+"[{'category_id': 1,'bbox':[485, 287, 537, 324],'bbox_mode': 0}]",train,image1164503,1164503,106,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1164503_106.jpg
+"[{'category_id': 1,'bbox':[45, 309, 74, 337],'bbox_mode': 0}]",train,image810967,810967,25,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_810967_25.jpg
+"[{'category_id': 1,'bbox':[586, 308, 613, 335],'bbox_mode': 0}]",train,image247228,247228,77,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_247228_77.jpg
+"[{'category_id': 1,'bbox':[275, 287, 303, 314],'bbox_mode': 0}]",train,image160209,160209,238,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_160209_238.jpg
+"[{'category_id': 1,'bbox':[471, 319, 501, 347],'bbox_mode': 0}]",train,image143533,143533,223,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_143533_223.jpg
+"[{'category_id': 1,'bbox':[483, 119, 521, 149],'bbox_mode': 0}]",train,image240134,240134,19,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_240134_19.jpg
+"[{'category_id': 1,'bbox':[304, 208, 326, 238],'bbox_mode': 0}]",train,image234556,234556,165,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_234556_165.jpg
+"[{'category_id': 1,'bbox':[402, 343, 429, 370],'bbox_mode': 0}]",train,image752743,752743,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_752743_0.jpg
+"[{'category_id': 1,'bbox':[531, 295, 560, 324],'bbox_mode': 0}]",train,image352099,352099,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_352099_80.jpg
+"[{'category_id': 1,'bbox':[370, 215, 396, 235],'bbox_mode': 0}]",train,image247481,247481,13,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_247481_13.jpg
+"[{'category_id': 1,'bbox':[185, 248, 213, 277],'bbox_mode': 0}]",train,image1041025,1041025,117,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1041025_117.jpg
+"[{'category_id': 1,'bbox':[187, 324, 221, 352],'bbox_mode': 0}]",train,image115852,115852,34,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_115852_34.jpg
+"[{'category_id': 1,'bbox':[139, 305, 170, 335],'bbox_mode': 0}]",train,image1210545,1210545,3,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1210545_3.jpg
+"[{'category_id': 1,'bbox':[198, 286, 229, 313],'bbox_mode': 0}]",train,image2834243,2834243,34,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_2834243_34.jpg
+"[{'category_id': 1,'bbox':[268, 276, 300, 308],'bbox_mode': 0}]",train,image776193,776193,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_776193_72.jpg
+"[{'category_id': 1,'bbox':[195, 317, 226, 347],'bbox_mode': 0}]",train,image220380,220380,17,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_220380_17.jpg
+"[{'category_id': 1,'bbox':[67, 290, 97, 321],'bbox_mode': 0}]",train,image339809,339809,106,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_339809_106.jpg
+"[{'category_id': 1,'bbox':[474, 237, 506, 270],'bbox_mode': 0}]",train,image143855,143855,188,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_143855_188.jpg
+"[{'category_id': 1,'bbox':[581, 316, 611, 344],'bbox_mode': 0}]",train,image368714,368714,211,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_368714_211.jpg
+"[{'category_id': 1,'bbox':[502, 138, 532, 174],'bbox_mode': 0}]",train,image121502,121502,220,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_121502_220.jpg
+"[{'category_id': 1,'bbox':[237, 17, 270, 56],'bbox_mode': 0}]",train,image122215,122215,139,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_122215_139.jpg
+"[{'category_id': 1,'bbox':[47, 340, 74, 367],'bbox_mode': 0}]",train,image123240,123240,64,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_123240_64.jpg
+"[{'category_id': 1,'bbox':[432, 279, 443, 290],'bbox_mode': 0}]",train,image758763,758763,84,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_758763_84.jpg
+"[{'category_id': 1,'bbox':[520, 233, 550, 264],'bbox_mode': 0}]",train,image222365,222365,128,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_222365_128.jpg
+"[{'category_id': 1,'bbox':[474, 182, 516, 215],'bbox_mode': 0}]",train,image115860,115860,2,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_115860_2.jpg
+"[{'category_id': 1,'bbox':[278, 302, 302, 327],'bbox_mode': 0}]",train,image1247494,1247494,108,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1247494_108.jpg
+"[{'category_id': 1,'bbox':[375, 361, 402, 389],'bbox_mode': 0}]",train,image992100,992100,1,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_992100_1.jpg
+"[{'category_id': 1,'bbox':[594, 316, 629, 345],'bbox_mode': 0}]",train,image102133,102133,51,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_102133_51.jpg
+"[{'category_id': 1,'bbox':[253, 240, 285, 269],'bbox_mode': 0}]",train,image222963,222963,65,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_222963_65.jpg
+"[{'category_id': 1,'bbox':[78, 340, 106, 366],'bbox_mode': 0}]",train,image136397,136397,65,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_136397_65.jpg
+"[{'category_id': 1,'bbox':[194, 250, 226, 283],'bbox_mode': 0}]",train,image136687,136687,197,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_136687_197.jpg
+"[{'category_id': 1,'bbox':[565, 317, 592, 344],'bbox_mode': 0}]",train,image154199,154199,126,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_154199_126.jpg
+"[{'category_id': 1,'bbox':[475, 237, 506, 268],'bbox_mode': 0}]",train,image235458,235458,171,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_235458_171.jpg
+"[{'category_id': 1,'bbox':[612, 293, 640, 324],'bbox_mode': 0}]",train,image951350,951350,176,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_951350_176.jpg
+"[{'category_id': 1,'bbox':[367, 143, 396, 173],'bbox_mode': 0}]",train,image165679,165679,119,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_165679_119.jpg
+"[{'category_id': 1,'bbox':[212, 213, 255, 246],'bbox_mode': 0}]",train,image101865,101865,191,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_101865_191.jpg
+"[{'category_id': 1,'bbox':[434, 273, 461, 302],'bbox_mode': 0}]",train,image956847,956847,9,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_956847_9.jpg
+"[{'category_id': 1,'bbox':[480, 302, 522, 337],'bbox_mode': 0}]",train,image1604896,1604896,56,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1604896_56.jpg
+"[{'category_id': 1,'bbox':[203, 238, 230, 265],'bbox_mode': 0}]",train,image1033695,1033695,125,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1033695_125.jpg
+"[{'category_id': 1,'bbox':[88, 283, 124, 314],'bbox_mode': 0}]",train,image830248,830248,4,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_830248_4.jpg
+"[{'category_id': 1,'bbox':[9, 330, 40, 358],'bbox_mode': 0}]",train,image635618,635618,25,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_635618_25.jpg
+"[{'category_id': 1,'bbox':[375, 182, 415, 213],'bbox_mode': 0}]",train,image103202,103202,54,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_103202_54.jpg
+"[{'category_id': 1,'bbox':[543, 164, 577, 193],'bbox_mode': 0}]",train,image230198,230198,74,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_230198_74.jpg
+"[{'category_id': 1,'bbox':[27, 50, 57, 82],'bbox_mode': 0}]",train,image680198,680198,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_680198_0.jpg
+"[{'category_id': 1,'bbox':[522, 337, 559, 369],'bbox_mode': 0}]",train,image242718,242718,21,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_242718_21.jpg
+"[{'category_id': 1,'bbox':[558, 294, 589, 325],'bbox_mode': 0}]",train,image149683,149683,140,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_149683_140.jpg
+"[{'category_id': 1,'bbox':[220, 304, 247, 334],'bbox_mode': 0}]",train,image715410,715410,46,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_715410_46.jpg
+"[{'category_id': 1,'bbox':[372, 79, 398, 107],'bbox_mode': 0}]",train,image141330,141330,58,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_141330_58.jpg
+"[{'category_id': 1,'bbox':[86, 290, 114, 320],'bbox_mode': 0}]",train,image339809,339809,106,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_339809_106.jpg
+"[{'category_id': 1,'bbox':[501, 172, 527, 200],'bbox_mode': 0}]",train,image122533,122533,37,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_122533_37.jpg
+"[{'category_id': 1,'bbox':[487, 297, 516, 326],'bbox_mode': 0}]",train,image104904,104904,168,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_104904_168.jpg
+"[{'category_id': 1,'bbox':[258, 312, 285, 340],'bbox_mode': 0}]",train,image161479,161479,178,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_161479_178.jpg
+"[{'category_id': 1,'bbox':[247, 333, 270, 354],'bbox_mode': 0}]",train,image207616,207616,136,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_207616_136.jpg
+"[{'category_id': 1,'bbox':[479, 241, 507, 269],'bbox_mode': 0}]",train,image146315,146315,160,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_146315_160.jpg
+"[{'category_id': 1,'bbox':[371, 303, 399, 331],'bbox_mode': 0}]",train,image334856,334856,41,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_334856_41.jpg
+"[{'category_id': 1,'bbox':[250, 288, 278, 316],'bbox_mode': 0}]",train,image618956,618956,3,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_618956_3.jpg
+"[{'category_id': 1,'bbox':[589, 269, 618, 298],'bbox_mode': 0}]",train,image140181,140181,48,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_140181_48.jpg
+"[{'category_id': 1,'bbox':[472, 327, 503, 358],'bbox_mode': 0}]",train,image147514,147514,145,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_147514_145.jpg
+"[{'category_id': 1,'bbox':[351, 372, 379, 401],'bbox_mode': 0}]",train,image1379909,1379909,63,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1379909_63.jpg
+"[{'category_id': 1,'bbox':[295, 194, 338, 233],'bbox_mode': 0}]",train,image135384,135384,6,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_135384_6.jpg
+"[{'category_id': 1,'bbox':[424, 341, 453, 371],'bbox_mode': 0}]",train,image110989,110989,225,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_110989_225.jpg
+"[{'category_id': 1,'bbox':[542, 315, 570, 342],'bbox_mode': 0}]",train,image343056,343056,217,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_343056_217.jpg
+"[{'category_id': 1,'bbox':[154, 335, 181, 363],'bbox_mode': 0}]",train,image752735,752735,249,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_752735_249.jpg
+"[{'category_id': 1,'bbox':[280, 149, 311, 187],'bbox_mode': 0}]",train,image132683,132683,158,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_132683_158.jpg
+"[{'category_id': 1,'bbox':[491, 278, 518, 309],'bbox_mode': 0}]",train,image141374,141374,42,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_141374_42.jpg
+"[{'category_id': 1,'bbox':[575, 293, 605, 322],'bbox_mode': 0}]",train,image149888,149888,202,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_149888_202.jpg
+"[{'category_id': 1,'bbox':[482, 297, 512, 328],'bbox_mode': 0}]",train,image130848,130848,89,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_130848_89.jpg
+"[{'category_id': 1,'bbox':[449, 210, 480, 242],'bbox_mode': 0}]",train,image130656,130656,255,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_130656_255.jpg
+"[{'category_id': 1,'bbox':[327, 262, 366, 296],'bbox_mode': 0}]",train,image905631,905631,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_905631_80.jpg
+"[{'category_id': 1,'bbox':[463, 178, 492, 207],'bbox_mode': 0}]",train,image711041,711041,33,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_711041_33.jpg
+"[{'category_id': 1,'bbox':[392, 333, 422, 360],'bbox_mode': 0}]",train,image768170,768170,48,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_768170_48.jpg
+"[{'category_id': 1,'bbox':[13, 319, 41, 345],'bbox_mode': 0}]",train,image359280,359280,110,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_359280_110.jpg
+"[{'category_id': 1,'bbox':[503, 327, 539, 363],'bbox_mode': 0}]",train,image210641,210641,20,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_210641_20.jpg
+"[{'category_id': 1,'bbox':[406, 295, 435, 322],'bbox_mode': 0}]",train,image324814,324814,89,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_324814_89.jpg
+"[{'category_id': 1,'bbox':[138, 382, 171, 416],'bbox_mode': 0}]",train,image105490,105490,159,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_105490_159.jpg
+"[{'category_id': 1,'bbox':[271, 291, 301, 321],'bbox_mode': 0}]",train,image164403,164403,67,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_164403_67.jpg
+"[{'category_id': 1,'bbox':[120, 236, 154, 267],'bbox_mode': 0}]",train,image1103949,1103949,104,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1103949_104.jpg
+"[{'category_id': 1,'bbox':[533, 171, 562, 203],'bbox_mode': 0}]",train,image962239,962239,137,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_962239_137.jpg
+"[{'category_id': 1,'bbox':[102, 294, 130, 324],'bbox_mode': 0}]",train,image119544,119544,152,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_119544_152.jpg
+"[{'category_id': 1,'bbox':[540, 325, 567, 353],'bbox_mode': 0}]",train,image137933,137933,74,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_137933_74.jpg
+"[{'category_id': 1,'bbox':[475, 228, 506, 259],'bbox_mode': 0}]",train,image210213,210213,49,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_210213_49.jpg
+"[{'category_id': 1,'bbox':[491, 351, 522, 382],'bbox_mode': 0}]",train,image105350,105350,121,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_105350_121.jpg
+"[{'category_id': 1,'bbox':[231, 96, 258, 125],'bbox_mode': 0}]",train,image243138,243138,179,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_243138_179.jpg
+"[{'category_id': 1,'bbox':[433, 129, 480, 162],'bbox_mode': 0}]",train,image753680,753680,224,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_753680_224.jpg
+"[{'category_id': 1,'bbox':[284, 325, 313, 353],'bbox_mode': 0}]",train,image962569,962569,212,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_962569_212.jpg
+"[{'category_id': 1,'bbox':[176, 346, 205, 376],'bbox_mode': 0}]",train,image115955,115955,201,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_115955_201.jpg
+"[{'category_id': 1,'bbox':[206, 300, 234, 328],'bbox_mode': 0}]",train,image143950,143950,58,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_143950_58.jpg
+"[{'category_id': 1,'bbox':[160, 208, 189, 238],'bbox_mode': 0}]",train,image108902,108902,224,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_108902_224.jpg
+"[{'category_id': 1,'bbox':[98, 300, 126, 329],'bbox_mode': 0}]",train,image663630,663630,152,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_663630_152.jpg
+"[{'category_id': 1,'bbox':[0, 322, 21, 354],'bbox_mode': 0}]",train,image130848,130848,269,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_130848_269.jpg
+"[{'category_id': 1,'bbox':[113, 332, 150, 362],'bbox_mode': 0}]",train,image126165,126165,237,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_126165_237.jpg
+"[{'category_id': 1,'bbox':[182, 54, 209, 83],'bbox_mode': 0}]",train,image677116,677116,2,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_677116_2.jpg
+"[{'category_id': 1,'bbox':[263, 316, 292, 343],'bbox_mode': 0}]",train,image125880,125880,128,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_125880_128.jpg
+"[{'category_id': 1,'bbox':[501, 267, 534, 297],'bbox_mode': 0}]",train,image247738,247738,11,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_247738_11.jpg
+"[{'category_id': 1,'bbox':[454, 326, 480, 353],'bbox_mode': 0}]",train,image137933,137933,74,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_137933_74.jpg
+"[{'category_id': 1,'bbox':[134, 280, 163, 311],'bbox_mode': 0}]",train,image118614,118614,100,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_118614_100.jpg
+"[{'category_id': 1,'bbox':[47, 248, 79, 274],'bbox_mode': 0}]",train,image323659,323659,190,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_323659_190.jpg
+"[{'category_id': 1,'bbox':[601, 203, 631, 231],'bbox_mode': 0}]",train,image115903,115903,260,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_115903_260.jpg
+"[{'category_id': 1,'bbox':[462, 262, 494, 290],'bbox_mode': 0}]",train,image373741,373741,39,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_373741_39.jpg
+"[{'category_id': 1,'bbox':[280, 173, 310, 206],'bbox_mode': 0}]",train,image129468,129468,92,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_129468_92.jpg
+"[{'category_id': 1,'bbox':[28, 319, 55, 345],'bbox_mode': 0}]",train,image389297,389297,119,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_389297_119.jpg
+"[{'category_id': 1,'bbox':[553, 405, 586, 442],'bbox_mode': 0}]",train,image122719,122719,121,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_122719_121.jpg
+"[{'category_id': 1,'bbox':[441, 311, 474, 340],'bbox_mode': 0}]",train,image1368526,1368526,215,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1368526_215.jpg
+"[{'category_id': 1,'bbox':[497, 300, 525, 330],'bbox_mode': 0}]",train,image236130,236130,62,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_236130_62.jpg
+"[{'category_id': 1,'bbox':[179, 307, 208, 337],'bbox_mode': 0}]",train,image108709,108709,192,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_108709_192.jpg
+"[{'category_id': 1,'bbox':[339, 335, 366, 361],'bbox_mode': 0}]",train,image152383,152383,42,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_152383_42.jpg
+"[{'category_id': 1,'bbox':[358, 13, 388, 49],'bbox_mode': 0}]",train,image784552,784552,209,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_784552_209.jpg
+"[{'category_id': 1,'bbox':[269, 23, 301, 62],'bbox_mode': 0}]",train,image122215,122215,139,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_122215_139.jpg
+"[{'category_id': 1,'bbox':[67, 54, 94, 81],'bbox_mode': 0}]",train,image116131,116131,89,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_116131_89.jpg
+"[{'category_id': 1,'bbox':[340, 252, 374, 279],'bbox_mode': 0}]",train,image128632,128632,229,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_128632_229.jpg
+"[{'category_id': 1,'bbox':[115, 265, 144, 295],'bbox_mode': 0}]",train,image99560,99560,145,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_99560_145.jpg
+"[{'category_id': 1,'bbox':[600, 269, 633, 298],'bbox_mode': 0}]",train,image140181,140181,48,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_140181_48.jpg
+"[{'category_id': 1,'bbox':[425, 211, 457, 252],'bbox_mode': 0}]",train,image99792,99792,5,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_99792_5.jpg
+"[{'category_id': 1,'bbox':[448, 246, 482, 282],'bbox_mode': 0}]",train,image399407,399407,206,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_399407_206.jpg
+"[{'category_id': 1,'bbox':[67, 107, 97, 135],'bbox_mode': 0}]",train,image131038,131038,102,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_131038_102.jpg
+"[{'category_id': 1,'bbox':[491, 252, 519, 283],'bbox_mode': 0}]",train,image154653,154653,23,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_154653_23.jpg
+"[{'category_id': 1,'bbox':[441, 262, 470, 294],'bbox_mode': 0}]",train,image128791,128791,114,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_128791_114.jpg
+"[{'category_id': 1,'bbox':[126, 334, 154, 361],'bbox_mode': 0}]",train,image664643,664643,183,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_664643_183.jpg
+"[{'category_id': 1,'bbox':[254, 307, 282, 336],'bbox_mode': 0}]",train,image1804277,1804277,3,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1804277_3.jpg
+"[{'category_id': 1,'bbox':[98, 216, 141, 252],'bbox_mode': 0}]",train,image102251,102251,30,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_102251_30.jpg
+"[{'category_id': 1,'bbox':[485, 291, 513, 319],'bbox_mode': 0}]",train,image981372,981372,64,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_981372_64.jpg
+"[{'category_id': 1,'bbox':[206, 26, 237, 65],'bbox_mode': 0}]",train,image242254,242254,18,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_242254_18.jpg
+"[{'category_id': 1,'bbox':[450, 75, 485, 117],'bbox_mode': 0}]",train,image1364790,1364790,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1364790_0.jpg
+"[{'category_id': 1,'bbox':[610, 286, 638, 315],'bbox_mode': 0}]",train,image109129,109129,19,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_109129_19.jpg
+"[{'category_id': 1,'bbox':[351, 169, 378, 198],'bbox_mode': 0}]",train,image725936,725936,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_725936_0.jpg
+"[{'category_id': 1,'bbox':[327, 270, 355, 299],'bbox_mode': 0}]",train,image663351,663351,121,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_663351_121.jpg
+"[{'category_id': 1,'bbox':[59, 272, 91, 304],'bbox_mode': 0}]",train,image408970,408970,212,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_408970_212.jpg
+"[{'category_id': 1,'bbox':[32, 332, 62, 365],'bbox_mode': 0}]",train,image120175,120175,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_120175_72.jpg
+"[{'category_id': 1,'bbox':[475, 304, 506, 334],'bbox_mode': 0}]",train,image1253997,1253997,21,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1253997_21.jpg
+"[{'category_id': 1,'bbox':[9, 330, 40, 358],'bbox_mode': 0}]",train,image158653,158653,25,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_158653_25.jpg
+"[{'category_id': 1,'bbox':[298, 295, 327, 322],'bbox_mode': 0}]",train,image121078,121078,6,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_121078_6.jpg
+"[{'category_id': 1,'bbox':[163, 297, 199, 328],'bbox_mode': 0}]",train,image146535,146535,24,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_146535_24.jpg
+"[{'category_id': 1,'bbox':[522, 176, 549, 204],'bbox_mode': 0}]",train,image122533,122533,37,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_122533_37.jpg
+"[{'category_id': 1,'bbox':[309, 327, 338, 356],'bbox_mode': 0}]",train,image118618,118618,59,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_118618_59.jpg
+"[{'category_id': 1,'bbox':[65, 321, 94, 349],'bbox_mode': 0}]",train,image128184,128184,69,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_128184_69.jpg
+"[{'category_id': 1,'bbox':[162, 336, 190, 365],'bbox_mode': 0}]",train,image123331,123331,250,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_123331_250.jpg
+"[{'category_id': 1,'bbox':[77, 243, 104, 272],'bbox_mode': 0}]",train,image164597,164597,26,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_164597_26.jpg
+"[{'category_id': 1,'bbox':[451, 158, 487, 190],'bbox_mode': 0}]",train,image810418,810418,12,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_810418_12.jpg
+"[{'category_id': 1,'bbox':[484, 287, 512, 316],'bbox_mode': 0}]",train,image137628,137628,195,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_137628_195.jpg
+"[{'category_id': 1,'bbox':[235, 338, 262, 367],'bbox_mode': 0}]",train,image107875,107875,1,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_107875_1.jpg
+"[{'category_id': 1,'bbox':[426, 282, 464, 316],'bbox_mode': 0}]",train,image408787,408787,8,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_408787_8.jpg
+"[{'category_id': 1,'bbox':[534, 194, 567, 237],'bbox_mode': 0}]",train,image212352,212352,94,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_212352_94.jpg
+"[{'category_id': 1,'bbox':[5, 311, 37, 339],'bbox_mode': 0}]",train,image1018658,1018658,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1018658_80.jpg
+"[{'category_id': 1,'bbox':[364, 70, 392, 102],'bbox_mode': 0}]",train,image1017341,1017341,48,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1017341_48.jpg
+"[{'category_id': 1,'bbox':[464, 191, 494, 219],'bbox_mode': 0}]",train,image123192,123192,199,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_123192_199.jpg
+"[{'category_id': 1,'bbox':[87, 318, 119, 346],'bbox_mode': 0}]",train,image131212,131212,137,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_131212_137.jpg
+"[{'category_id': 1,'bbox':[69, 190, 98, 223],'bbox_mode': 0}]",train,image130471,130471,46,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_130471_46.jpg
+"[{'category_id': 1,'bbox':[488, 339, 515, 367],'bbox_mode': 0}]",train,image388482,388482,123,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_388482_123.jpg
+"[{'category_id': 1,'bbox':[444, 357, 478, 384],'bbox_mode': 0}]",train,image246927,246927,156,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_246927_156.jpg
+"[{'category_id': 1,'bbox':[569, 332, 603, 362],'bbox_mode': 0}]",train,image1826259,1826259,151,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1826259_151.jpg
+"[{'category_id': 1,'bbox':[517, 287, 547, 315],'bbox_mode': 0}]",train,image240135,240135,164,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_240135_164.jpg
+"[{'category_id': 1,'bbox':[36, 355, 70, 384],'bbox_mode': 0}]",train,image120478,120478,8,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_120478_8.jpg
+"[{'category_id': 1,'bbox':[468, 335, 506, 368],'bbox_mode': 0}]",train,image140039,140039,23,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_140039_23.jpg
+"[{'category_id': 1,'bbox':[224, 335, 256, 363],'bbox_mode': 0}]",train,image138612,138612,25,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_138612_25.jpg
+"[{'category_id': 1,'bbox':[490, 327, 522, 357],'bbox_mode': 0}]",train,image154149,154149,35,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_154149_35.jpg
+"[{'category_id': 1,'bbox':[398, 265, 428, 299],'bbox_mode': 0}]",train,image113782,113782,82,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_113782_82.jpg
+"[{'category_id': 1,'bbox':[612, 293, 640, 324],'bbox_mode': 0}]",train,image672551,672551,183,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_672551_183.jpg
+"[{'category_id': 1,'bbox':[530, 323, 564, 359],'bbox_mode': 0}]",train,image133775,133775,49,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_133775_49.jpg
+"[{'category_id': 1,'bbox':[292, 262, 326, 297],'bbox_mode': 0}]",train,image139282,139282,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_139282_72.jpg
+"[{'category_id': 1,'bbox':[364, 71, 392, 102],'bbox_mode': 0}]",train,image188629,188629,48,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_188629_48.jpg
+"[{'category_id': 1,'bbox':[539, 309, 566, 336],'bbox_mode': 0}]",train,image136506,136506,218,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_136506_218.jpg
+"[{'category_id': 1,'bbox':[484, 355, 513, 384],'bbox_mode': 0}]",train,image114295,114295,120,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_114295_120.jpg
+"[{'category_id': 1,'bbox':[9, 233, 44, 269],'bbox_mode': 0}]",train,image106244,106244,86,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_106244_86.jpg
+"[{'category_id': 1,'bbox':[315, 294, 348, 322],'bbox_mode': 0}]",train,image1316463,1316463,125,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1316463_125.jpg
+"[{'category_id': 1,'bbox':[266, 330, 278, 343],'bbox_mode': 0}]",train,image326905,326905,89,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_326905_89.jpg
+"[{'category_id': 1,'bbox':[476, 30, 515, 76],'bbox_mode': 0}]",train,image108828,108828,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_108828_0.jpg
+"[{'category_id': 1,'bbox':[540, 214, 569, 246],'bbox_mode': 0}]",train,image996226,996226,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_996226_72.jpg
+"[{'category_id': 1,'bbox':[404, 222, 463, 263],'bbox_mode': 0}]",train,image631427,631427,212,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_631427_212.jpg
+"[{'category_id': 1,'bbox':[536, 300, 564, 331],'bbox_mode': 0}]",train,image138768,138768,124,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_138768_124.jpg
+"[{'category_id': 1,'bbox':[356, 185, 407, 220],'bbox_mode': 0}]",train,image135384,135384,6,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_135384_6.jpg
+"[{'category_id': 1,'bbox':[421, 317, 452, 348],'bbox_mode': 0}]",train,image100781,100781,219,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_100781_219.jpg
+"[{'category_id': 1,'bbox':[540, 147, 568, 176],'bbox_mode': 0}]",train,image129802,129802,135,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_129802_135.jpg
+"[{'category_id': 1,'bbox':[178, 271, 207, 299],'bbox_mode': 0}]",train,image107455,107455,57,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_107455_57.jpg
+"[{'category_id': 1,'bbox':[543, 327, 578, 360],'bbox_mode': 0}]",train,image235585,235585,120,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_235585_120.jpg
+"[{'category_id': 1,'bbox':[130, 313, 159, 333],'bbox_mode': 0}]",train,image1441697,1441697,7,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1441697_7.jpg
+"[{'category_id': 1,'bbox':[159, 237, 187, 266],'bbox_mode': 0}]",train,image125740,125740,160,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_125740_160.jpg
+"[{'category_id': 1,'bbox':[569, 299, 600, 331],'bbox_mode': 0}]",train,image114490,114490,215,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_114490_215.jpg
+"[{'category_id': 1,'bbox':[506, 340, 535, 368],'bbox_mode': 0}]",train,image136079,136079,88,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_136079_88.jpg
+"[{'category_id': 1,'bbox':[307, 334, 339, 364],'bbox_mode': 0}]",train,image625253,625253,178,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_625253_178.jpg
+"[{'category_id': 1,'bbox':[367, 322, 393, 348],'bbox_mode': 0}]",train,image111518,111518,264,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_111518_264.jpg
+"[{'category_id': 1,'bbox':[9, 329, 38, 358],'bbox_mode': 0}]",train,image243022,243022,25,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_243022_25.jpg
+"[{'category_id': 1,'bbox':[235, 325, 264, 353],'bbox_mode': 0}]",train,image135644,135644,66,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_135644_66.jpg
+"[{'category_id': 1,'bbox':[139, 305, 170, 335],'bbox_mode': 0}]",train,image249146,249146,3,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_249146_3.jpg
+"[{'category_id': 1,'bbox':[534, 330, 575, 362],'bbox_mode': 0}]",train,image731995,731995,23,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_731995_23.jpg
+"[{'category_id': 1,'bbox':[470, 303, 493, 322],'bbox_mode': 0}]",train,image1866957,1866957,215,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1866957_215.jpg
+"[{'category_id': 1,'bbox':[360, 279, 373, 293],'bbox_mode': 0}]",train,image1016883,1016883,141,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1016883_141.jpg
+"[{'category_id': 1,'bbox':[529, 330, 558, 359],'bbox_mode': 0}]",train,image387183,387183,23,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_387183_23.jpg
+"[{'category_id': 1,'bbox':[79, 292, 116, 324],'bbox_mode': 0}]",train,image110619,110619,51,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_110619_51.jpg
+"[{'category_id': 1,'bbox':[474, 297, 507, 326],'bbox_mode': 0}]",train,image128976,128976,57,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_128976_57.jpg
+"[{'category_id': 1,'bbox':[274, 216, 321, 248],'bbox_mode': 0}]",train,image109522,109522,86,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_109522_86.jpg
+"[{'category_id': 1,'bbox':[0, 310, 23, 338],'bbox_mode': 0}]",train,image142023,142023,31,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_142023_31.jpg
+"[{'category_id': 1,'bbox':[241, 270, 273, 300],'bbox_mode': 0}]",train,image207178,207178,61,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_207178_61.jpg
+"[{'category_id': 1,'bbox':[380, 11, 410, 46],'bbox_mode': 0}]",train,image784552,784552,209,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_784552_209.jpg
+"[{'category_id': 1,'bbox':[475, 228, 506, 259],'bbox_mode': 0}]",train,image343880,343880,49,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_343880_49.jpg
+"[{'category_id': 1,'bbox':[186, 318, 216, 349],'bbox_mode': 0}]",train,image404632,404632,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_404632_22.jpg
+"[{'category_id': 1,'bbox':[43, 319, 72, 348],'bbox_mode': 0}]",train,image152172,152172,90,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_152172_90.jpg
+"[{'category_id': 1,'bbox':[113, 277, 143, 307],'bbox_mode': 0}]",train,image634738,634738,93,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_634738_93.jpg
+"[{'category_id': 1,'bbox':[471, 316, 503, 347],'bbox_mode': 0}]",train,image119189,119189,63,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_119189_63.jpg
+"[{'category_id': 1,'bbox':[611, 336, 639, 368],'bbox_mode': 0}]",train,image133984,133984,129,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_133984_129.jpg
+"[{'category_id': 1,'bbox':[12, 314, 44, 346],'bbox_mode': 0}]",train,image323766,323766,47,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_323766_47.jpg
+"[{'category_id': 1,'bbox':[214, 335, 245, 366],'bbox_mode': 0}]",train,image209685,209685,73,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_209685_73.jpg
+"[{'category_id': 1,'bbox':[612, 293, 640, 324],'bbox_mode': 0}]",train,image606580,606580,183,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_606580_183.jpg
+"[{'category_id': 1,'bbox':[156, 185, 186, 216],'bbox_mode': 0}]",train,image906700,906700,40,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_906700_40.jpg
+"[{'category_id': 1,'bbox':[514, 243, 547, 275],'bbox_mode': 0}]",train,image248624,248624,105,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_248624_105.jpg
+"[{'category_id': 1,'bbox':[184, 235, 217, 268],'bbox_mode': 0}]",train,image289396,289396,8,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_289396_8.jpg
+"[{'category_id': 1,'bbox':[580, 65, 617, 99],'bbox_mode': 0}]",train,image132579,132579,77,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_132579_77.jpg
+"[{'category_id': 1,'bbox':[126, 334, 154, 361],'bbox_mode': 0}]",train,image164560,164560,176,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_164560_176.jpg
+"[{'category_id': 1,'bbox':[438, 276, 466, 307],'bbox_mode': 0}]",train,image713037,713037,108,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_713037_108.jpg
+"[{'category_id': 1,'bbox':[398, 344, 427, 374],'bbox_mode': 0}]",train,image109981,109981,13,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_109981_13.jpg
+"[{'category_id': 1,'bbox':[344, 319, 370, 344],'bbox_mode': 0}]",train,image806852,806852,117,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_806852_117.jpg
+"[{'category_id': 1,'bbox':[455, 287, 501, 319],'bbox_mode': 0}]",train,image1754044,1754044,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1754044_71.jpg
+"[{'category_id': 1,'bbox':[515, 182, 549, 216],'bbox_mode': 0}]",train,image350653,350653,149,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_350653_149.jpg
+"[{'category_id': 1,'bbox':[533, 318, 566, 346],'bbox_mode': 0}]",train,image104937,104937,85,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_104937_85.jpg
+"[{'category_id': 1,'bbox':[288, 271, 328, 287],'bbox_mode': 0}]",train,image806439,806439,38,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_806439_38.jpg
+"[{'category_id': 1,'bbox':[306, 322, 349, 356],'bbox_mode': 0}]",train,image111662,111662,163,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_111662_163.jpg
+"[{'category_id': 1,'bbox':[230, 314, 259, 342],'bbox_mode': 0}]",train,image142810,142810,126,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_142810_126.jpg
+"[{'category_id': 1,'bbox':[444, 199, 479, 230],'bbox_mode': 0}]",train,image245107,245107,25,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_245107_25.jpg
+"[{'category_id': 1,'bbox':[332, 282, 363, 316],'bbox_mode': 0}]",train,image239971,239971,17,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_239971_17.jpg
+"[{'category_id': 1,'bbox':[188, 272, 231, 308],'bbox_mode': 0}]",train,image1604896,1604896,56,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1604896_56.jpg
+"[{'category_id': 1,'bbox':[478, 283, 507, 311],'bbox_mode': 0}]",train,image145710,145710,178,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_145710_178.jpg
+"[{'category_id': 1,'bbox':[150, 294, 180, 321],'bbox_mode': 0}]",train,image1411778,1411778,18,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1411778_18.jpg
+"[{'category_id': 1,'bbox':[467, 145, 495, 177],'bbox_mode': 0}]",train,image101842,101842,129,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_101842_129.jpg
+"[{'category_id': 1,'bbox':[341, 190, 373, 221],'bbox_mode': 0}]",train,image1440029,1440029,21,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1440029_21.jpg
+"[{'category_id': 1,'bbox':[159, 296, 186, 324],'bbox_mode': 0}]",train,image1241266,1241266,266,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1241266_266.jpg
+"[{'category_id': 1,'bbox':[473, 303, 490, 318],'bbox_mode': 0}]",train,image371401,371401,215,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_371401_215.jpg
+"[{'category_id': 1,'bbox':[602, 260, 628, 287],'bbox_mode': 0}]",train,image212154,212154,221,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_212154_221.jpg
+"[{'category_id': 1,'bbox':[357, 357, 383, 384],'bbox_mode': 0}]",train,image138122,138122,44,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_138122_44.jpg
+"[{'category_id': 1,'bbox':[609, 238, 636, 268],'bbox_mode': 0}]",train,image120954,120954,18,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_120954_18.jpg
+"[{'category_id': 1,'bbox':[503, 291, 543, 324],'bbox_mode': 0}]",train,image1145445,1145445,195,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1145445_195.jpg
+"[{'category_id': 1,'bbox':[434, 273, 461, 302],'bbox_mode': 0}]",train,image225322,225322,9,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_225322_9.jpg
+"[{'category_id': 1,'bbox':[71, 309, 101, 336],'bbox_mode': 0}]",train,image634746,634746,90,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_634746_90.jpg
+"[{'category_id': 1,'bbox':[609, 310, 640, 341],'bbox_mode': 0}]",train,image101799,101799,17,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_101799_17.jpg
+"[{'category_id': 1,'bbox':[138, 382, 171, 416],'bbox_mode': 0}]",train,image114739,114739,159,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_114739_159.jpg
+"[{'category_id': 1,'bbox':[138, 327, 171, 361],'bbox_mode': 0}]",train,image120685,120685,236,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_120685_236.jpg
+"[{'category_id': 1,'bbox':[50, 321, 83, 349],'bbox_mode': 0}]",train,image1312164,1312164,43,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1312164_43.jpg
+"[{'category_id': 1,'bbox':[89, 220, 123, 252],'bbox_mode': 0}]",train,image107892,107892,117,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_107892_117.jpg
+"[{'category_id': 1,'bbox':[163, 179, 191, 214],'bbox_mode': 0}]",train,image895838,895838,19,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_895838_19.jpg
+"[{'category_id': 1,'bbox':[385, 232, 415, 260],'bbox_mode': 0}]",train,image109916,109916,20,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_109916_20.jpg
+"[{'category_id': 1,'bbox':[512, 242, 544, 271],'bbox_mode': 0}]",train,image380399,380399,91,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_380399_91.jpg
+"[{'category_id': 1,'bbox':[490, 337, 517, 364],'bbox_mode': 0}]",train,image400079,400079,54,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_400079_54.jpg
+"[{'category_id': 1,'bbox':[458, 312, 486, 342],'bbox_mode': 0}]",train,image714834,714834,183,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_714834_183.jpg
+"[{'category_id': 1,'bbox':[603, 171, 634, 201],'bbox_mode': 0}]",train,image148798,148798,109,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_148798_109.jpg
+"[{'category_id': 1,'bbox':[365, 313, 394, 341],'bbox_mode': 0}]",train,image1312164,1312164,43,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1312164_43.jpg
+"[{'category_id': 1,'bbox':[97, 277, 125, 305],'bbox_mode': 0}]",train,image128975,128975,17,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_128975_17.jpg
+"[{'category_id': 1,'bbox':[103, 338, 149, 369],'bbox_mode': 0}]",train,image114474,114474,110,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_114474_110.jpg
+"[{'category_id': 1,'bbox':[527, 305, 561, 335],'bbox_mode': 0}]",train,image104937,104937,85,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_104937_85.jpg
+"[{'category_id': 1,'bbox':[234, 56, 261, 86],'bbox_mode': 0}]",train,image803816,803816,54,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_803816_54.jpg
+"[{'category_id': 1,'bbox':[248, 208, 279, 239],'bbox_mode': 0}]",train,image158384,158384,32,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_158384_32.jpg
+"[{'category_id': 1,'bbox':[235, 227, 262, 256],'bbox_mode': 0}]",train,image1033695,1033695,125,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1033695_125.jpg
+"[{'category_id': 1,'bbox':[327, 262, 366, 296],'bbox_mode': 0}]",train,image165843,165843,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_165843_80.jpg
+"[{'category_id': 1,'bbox':[510, 281, 544, 313],'bbox_mode': 0}]",train,image121143,121143,76,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_121143_76.jpg
+"[{'category_id': 1,'bbox':[498, 247, 526, 280],'bbox_mode': 0}]",train,image246193,246193,23,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_246193_23.jpg
+"[{'category_id': 1,'bbox':[61, 164, 93, 198],'bbox_mode': 0}]",train,image894398,894398,137,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_894398_137.jpg
+"[{'category_id': 1,'bbox':[351, 343, 379, 371],'bbox_mode': 0}]",train,image247443,247443,196,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_247443_196.jpg
+"[{'category_id': 1,'bbox':[67, 290, 97, 321],'bbox_mode': 0}]",train,image736085,736085,106,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_736085_106.jpg
+"[{'category_id': 1,'bbox':[125, 291, 154, 323],'bbox_mode': 0}]",train,image132822,132822,85,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_132822_85.jpg
+"[{'category_id': 1,'bbox':[59, 272, 91, 304],'bbox_mode': 0}]",train,image146165,146165,212,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_146165_212.jpg
+"[{'category_id': 1,'bbox':[372, 277, 400, 309],'bbox_mode': 0}]",train,image1816181,1816181,68,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_1816181_68.jpg
+"[{'category_id': 1,'bbox':[406, 341, 436, 369],'bbox_mode': 0}]",train,image211030,211030,12,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_211030_12.jpg
+"[{'category_id': 1,'bbox':[9, 85, 56, 117],'bbox_mode': 0}]",train,image107370,107370,130,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_107370_130.jpg
+"[{'category_id': 1,'bbox':[92, 341, 122, 371],'bbox_mode': 0}]",train,image346251,346251,50,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_346251_50.jpg
+"[{'category_id': 1,'bbox':[464, 304, 496, 341],'bbox_mode': 0}]",train,image392265,392265,147,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_392265_147.jpg
+"[{'category_id': 1,'bbox':[92, 135, 119, 161],'bbox_mode': 0}]",train,image151290,151290,240,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_151290_240.jpg
+"[{'category_id': 1,'bbox':[285, 176, 314, 210],'bbox_mode': 0}]",train,image164647,164647,201,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_164647_201.jpg
+"[{'category_id': 1,'bbox':[180, 280, 213, 312],'bbox_mode': 0}]",train,image140952,140952,11,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_140952_11.jpg
+"[{'category_id': 1,'bbox':[438, 272, 467, 302],'bbox_mode': 0}]",train,image974659,974659,245,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_974659_245.jpg
+"[{'category_id': 1,'bbox':[77, 196, 101, 216],'bbox_mode': 0}]",train,image350653,350653,149,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_train/strtV_image_350653_149.jpg
+"[{'category_id': 1,'bbox':[422, 233, 449, 260],'bbox_mode': 0}]",valid,image416278,416278,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_416278_72.jpg
+"[{'category_id': 1,'bbox':[292, 154, 319, 182],'bbox_mode': 0}]",valid,image519225,519225,262,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_519225_262.jpg
+"[{'category_id': 1,'bbox':[229, 228, 268, 260],'bbox_mode': 0}]",valid,image542899,542899,191,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_542899_191.jpg
+"[{'category_id': 1,'bbox':[501, 267, 534, 297],'bbox_mode': 0}]",valid,image579352,579352,11,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_579352_11.jpg
+"[{'category_id': 1,'bbox':[2, 342, 30, 369],'bbox_mode': 0}]",valid,image443942,443942,15,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_443942_15.jpg
+"[{'category_id': 1,'bbox':[310, 173, 341, 202],'bbox_mode': 0}]",valid,image564421,564421,61,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_564421_61.jpg
+"[{'category_id': 1,'bbox':[488, 304, 515, 331],'bbox_mode': 0}]",valid,image410287,410287,15,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_410287_15.jpg
+"[{'category_id': 1,'bbox':[346, 300, 374, 331],'bbox_mode': 0}]",valid,image410287,410287,15,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_410287_15.jpg
+"[{'category_id': 1,'bbox':[383, 174, 412, 205],'bbox_mode': 0}]",valid,image575821,575821,65,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_575821_65.jpg
+"[{'category_id': 1,'bbox':[216, 294, 229, 303],'bbox_mode': 0}]",valid,image490752,490752,64,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_490752_64.jpg
+"[{'category_id': 1,'bbox':[424, 189, 454, 221],'bbox_mode': 0}]",valid,image436219,436219,157,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_436219_157.jpg
+"[{'category_id': 1,'bbox':[306, 139, 347, 171],'bbox_mode': 0}]",valid,image510875,510875,44,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_510875_44.jpg
+"[{'category_id': 1,'bbox':[500, 290, 353, 309],'bbox_mode': 0}]",valid,image454913,454913,168,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_454913_168.jpg
+"[{'category_id': 1,'bbox':[197, 311, 236, 343],'bbox_mode': 0}]",valid,image435373,435373,10,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_435373_10.jpg
+"[{'category_id': 1,'bbox':[247, 189, 274, 220],'bbox_mode': 0}]",valid,image542061,542061,46,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_542061_46.jpg
+"[{'category_id': 1,'bbox':[370, 209, 407, 242],'bbox_mode': 0}]",valid,image482006,482006,167,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_482006_167.jpg
+"[{'category_id': 1,'bbox':[599, 300, 626, 329],'bbox_mode': 0}]",valid,image425277,425277,26,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_425277_26.jpg
+"[{'category_id': 1,'bbox':[334, 267, 359, 296],'bbox_mode': 0}]",valid,image543357,543357,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_543357_22.jpg
+"[{'category_id': 1,'bbox':[360, 336, 390, 365],'bbox_mode': 0}]",valid,image539566,539566,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_539566_22.jpg
+"[{'category_id': 1,'bbox':[342, 308, 368, 336],'bbox_mode': 0}]",valid,image482083,482083,76,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_482083_76.jpg
+"[{'category_id': 1,'bbox':[28, 330, 56, 357],'bbox_mode': 0}]",valid,image536987,536987,79,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_536987_79.jpg
+"[{'category_id': 1,'bbox':[85, 206, 114, 236],'bbox_mode': 0}]",valid,image544748,544748,43,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_544748_43.jpg
+"[{'category_id': 1,'bbox':[69, 233, 109, 264],'bbox_mode': 0}]",valid,image419726,419726,48,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_419726_48.jpg
+"[{'category_id': 1,'bbox':[575, 293, 605, 322],'bbox_mode': 0}]",valid,image490714,490714,157,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_490714_157.jpg
+"[{'category_id': 1,'bbox':[163, 17, 197, 49],'bbox_mode': 0}]",valid,image558252,558252,20,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_558252_20.jpg
+"[{'category_id': 1,'bbox':[229, 287, 256, 314],'bbox_mode': 0}]",valid,image490752,490752,64,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_490752_64.jpg
+"[{'category_id': 1,'bbox':[303, 315, 328, 343],'bbox_mode': 0}]",valid,image570834,570834,69,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_570834_69.jpg
+"[{'category_id': 1,'bbox':[463, 178, 492, 206],'bbox_mode': 0}]",valid,image575784,575784,33,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_575784_33.jpg
+"[{'category_id': 1,'bbox':[493, 230, 523, 261],'bbox_mode': 0}]",valid,image522442,522442,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_522442_72.jpg
+"[{'category_id': 1,'bbox':[210, 297, 239, 327],'bbox_mode': 0}]",valid,image413208,413208,257,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_413208_257.jpg
+"[{'category_id': 1,'bbox':[40, 88, 71, 120],'bbox_mode': 0}]",valid,image433237,433237,192,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_433237_192.jpg
+"[{'category_id': 1,'bbox':[48, 155, 75, 181],'bbox_mode': 0}]",valid,image489103,489103,185,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_489103_185.jpg
+"[{'category_id': 1,'bbox':[178, 64, 225, 120],'bbox_mode': 0}]",valid,image579917,579917,13,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_579917_13.jpg
+"[{'category_id': 1,'bbox':[406, 227, 437, 264],'bbox_mode': 0}]",valid,image410090,410090,5,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_410090_5.jpg
+"[{'category_id': 1,'bbox':[403, 167, 440, 202],'bbox_mode': 0}]",valid,image502348,502348,199,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_502348_199.jpg
+"[{'category_id': 1,'bbox':[187, 207, 226, 241],'bbox_mode': 0}]",valid,image483844,483844,68,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_483844_68.jpg
+"[{'category_id': 1,'bbox':[206, 322, 234, 351],'bbox_mode': 0}]",valid,image424012,424012,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_424012_22.jpg
+"[{'category_id': 1,'bbox':[481, 139, 515, 169],'bbox_mode': 0}]",valid,image535649,535649,242,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_535649_242.jpg
+"[{'category_id': 1,'bbox':[395, 268, 424, 296],'bbox_mode': 0}]",valid,image548416,548416,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_548416_0.jpg
+"[{'category_id': 1,'bbox':[491, 222, 525, 259],'bbox_mode': 0}]",valid,image437119,437119,26,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_437119_26.jpg
+"[{'category_id': 1,'bbox':[440, 314, 472, 348],'bbox_mode': 0}]",valid,image519746,519746,11,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_519746_11.jpg
+"[{'category_id': 1,'bbox':[160, 324, 191, 355],'bbox_mode': 0}]",valid,image423794,423794,200,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_423794_200.jpg
+"[{'category_id': 1,'bbox':[186, 318, 216, 349],'bbox_mode': 0}]",valid,image462664,462664,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_462664_22.jpg
+"[{'category_id': 1,'bbox':[6, 282, 48, 314],'bbox_mode': 0}]",valid,image580887,580887,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_580887_71.jpg
+"[{'category_id': 1,'bbox':[443, 298, 473, 327],'bbox_mode': 0}]",valid,image431262,431262,188,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_431262_188.jpg
+"[{'category_id': 1,'bbox':[293, 314, 326, 343],'bbox_mode': 0}]",valid,image411898,411898,70,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_411898_70.jpg
+"[{'category_id': 1,'bbox':[483, 310, 515, 340],'bbox_mode': 0}]",valid,image417139,417139,40,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_417139_40.jpg
+"[{'category_id': 1,'bbox':[177, 311, 203, 336],'bbox_mode': 0}]",valid,image476152,476152,231,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_476152_231.jpg
+"[{'category_id': 1,'bbox':[532, 312, 562, 338],'bbox_mode': 0}]",valid,image556548,556548,77,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_556548_77.jpg
+"[{'category_id': 1,'bbox':[13, 107, 63, 155],'bbox_mode': 0}]",valid,image555217,555217,204,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_555217_204.jpg
+"[{'category_id': 1,'bbox':[285, 195, 314, 226],'bbox_mode': 0}]",valid,image502702,502702,267,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_502702_267.jpg
+"[{'category_id': 1,'bbox':[426, 282, 464, 316],'bbox_mode': 0}]",valid,image552529,552529,8,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_552529_8.jpg
+"[{'category_id': 1,'bbox':[339, 71, 366, 99],'bbox_mode': 0}]",valid,image575614,575614,136,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_575614_136.jpg
+"[{'category_id': 1,'bbox':[601, 201, 636, 230],'bbox_mode': 0}]",valid,image593083,593083,51,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_593083_51.jpg
+"[{'category_id': 1,'bbox':[597, 334, 629, 362],'bbox_mode': 0}]",valid,image579197,579197,76,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_579197_76.jpg
+"[{'category_id': 1,'bbox':[106, 216, 140, 249],'bbox_mode': 0}]",valid,image483844,483844,68,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_483844_68.jpg
+"[{'category_id': 1,'bbox':[253, 310, 281, 339],'bbox_mode': 0}]",valid,image502676,502676,62,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_502676_62.jpg
+"[{'category_id': 1,'bbox':[360, 336, 390, 365],'bbox_mode': 0}]",valid,image458866,458866,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_458866_22.jpg
+"[{'category_id': 1,'bbox':[399, 305, 429, 333],'bbox_mode': 0}]",valid,image429640,429640,81,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_429640_81.jpg
+"[{'category_id': 1,'bbox':[82, 266, 113, 299],'bbox_mode': 0}]",valid,image568195,568195,32,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_568195_32.jpg
+"[{'category_id': 1,'bbox':[479, 241, 507, 269],'bbox_mode': 0}]",valid,image481729,481729,160,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_481729_160.jpg
+"[{'category_id': 1,'bbox':[201, 250, 228, 279],'bbox_mode': 0}]",valid,image437524,437524,202,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_437524_202.jpg
+"[{'category_id': 1,'bbox':[97, 206, 127, 237],'bbox_mode': 0}]",valid,image544748,544748,43,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_544748_43.jpg
+"[{'category_id': 1,'bbox':[466, 250, 507, 286],'bbox_mode': 0}]",valid,image488590,488590,18,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_488590_18.jpg
+"[{'category_id': 1,'bbox':[375, 361, 402, 389],'bbox_mode': 0}]",valid,image576393,576393,1,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_576393_1.jpg
+"[{'category_id': 1,'bbox':[447, 231, 475, 259],'bbox_mode': 0}]",valid,image515688,515688,12,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_515688_12.jpg
+"[{'category_id': 1,'bbox':[174, 350, 207, 383],'bbox_mode': 0}]",valid,image524731,524731,55,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_524731_55.jpg
+"[{'category_id': 1,'bbox':[402, 330, 432, 360],'bbox_mode': 0}]",valid,image485098,485098,181,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_485098_181.jpg
+"[{'category_id': 1,'bbox':[122, 345, 149, 372],'bbox_mode': 0}]",valid,image460357,460357,48,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_460357_48.jpg
+"[{'category_id': 1,'bbox':[263, 190, 291, 220],'bbox_mode': 0}]",valid,image542061,542061,46,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_542061_46.jpg
+"[{'category_id': 1,'bbox':[454, 9, 482, 37],'bbox_mode': 0}]",valid,image452809,452809,193,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_452809_193.jpg
+"[{'category_id': 1,'bbox':[6, 282, 48, 314],'bbox_mode': 0}]",valid,image603478,603478,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_603478_71.jpg
+"[{'category_id': 1,'bbox':[538, 323, 583, 358],'bbox_mode': 0}]",valid,image488067,488067,65,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_488067_65.jpg
+"[{'category_id': 1,'bbox':[267, 318, 293, 344],'bbox_mode': 0}]",valid,image433215,433215,11,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_433215_11.jpg
+"[{'category_id': 1,'bbox':[424, 330, 464, 360],'bbox_mode': 0}]",valid,image519310,519310,23,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_519310_23.jpg
+"[{'category_id': 1,'bbox':[481, 286, 510, 316],'bbox_mode': 0}]",valid,image420959,420959,10,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_420959_10.jpg
+"[{'category_id': 1,'bbox':[103, 330, 129, 356],'bbox_mode': 0}]",valid,image457980,457980,43,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_457980_43.jpg
+"[{'category_id': 1,'bbox':[630, 339, 640, 349],'bbox_mode': 0}]",valid,image457980,457980,43,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_457980_43.jpg
+"[{'category_id': 1,'bbox':[583, 225, 612, 255],'bbox_mode': 0}]",valid,image569778,569778,234,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_569778_234.jpg
+"[{'category_id': 1,'bbox':[70, 170, 103, 207],'bbox_mode': 0}]",valid,image543847,543847,48,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_543847_48.jpg
+"[{'category_id': 1,'bbox':[362, 330, 389, 358],'bbox_mode': 0}]",valid,image554799,554799,263,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_554799_263.jpg
+"[{'category_id': 1,'bbox':[285, 176, 314, 210],'bbox_mode': 0}]",valid,image481559,481559,158,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_481559_158.jpg
+"[{'category_id': 1,'bbox':[350, 305, 380, 337],'bbox_mode': 0}]",valid,image484559,484559,237,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_484559_237.jpg
+"[{'category_id': 1,'bbox':[165, 204, 196, 237],'bbox_mode': 0}]",valid,image539755,539755,258,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_539755_258.jpg
+"[{'category_id': 1,'bbox':[561, 296, 591, 326],'bbox_mode': 0}]",valid,image424950,424950,83,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_424950_83.jpg
+"[{'category_id': 1,'bbox':[347, 269, 373, 298],'bbox_mode': 0}]",valid,image543357,543357,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_543357_22.jpg
+"[{'category_id': 1,'bbox':[426, 282, 464, 316],'bbox_mode': 0}]",valid,image574189,574189,8,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_574189_8.jpg
+"[{'category_id': 1,'bbox':[51, 328, 80, 356],'bbox_mode': 0}]",valid,image441060,441060,49,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_441060_49.jpg
+"[{'category_id': 1,'bbox':[249, 301, 282, 330],'bbox_mode': 0}]",valid,image559799,559799,69,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_559799_69.jpg
+"[{'category_id': 1,'bbox':[31, 234, 62, 265],'bbox_mode': 0}]",valid,image505371,505371,14,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/camera_valid/strtV_image_505371_14.jpg
+[],train,image398610,398610,38,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_398610_38.jpg
+[],train,image331843,331843,97,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_331843_97.jpg
+[],train,image348047,348047,64,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_348047_64.jpg
+[],train,image494974,494974,49,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_494974_49.jpg
+[],train,image537853,537853,156,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_537853_156.jpg
+[],train,image478644,478644,58,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_478644_58.jpg
+[],train,image597649,597649,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_597649_0.jpg
+[],train,image351768,351768,87,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_351768_87.jpg
+[],train,image369030,369030,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_369030_80.jpg
+[],train,image331244,331244,88,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_331244_88.jpg
+[],train,image368845,368845,103,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_368845_103.jpg
+[],train,image372203,372203,68,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_372203_68.jpg
+[],train,image450503,450503,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_450503_80.jpg
+[],train,image595576,595576,45,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_595576_45.jpg
+[],train,image325630,325630,16,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_325630_16.jpg
+[],train,image433903,433903,102,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_433903_102.jpg
+[],train,image404632,404632,157,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_404632_157.jpg
+[],train,image431109,431109,16,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_431109_16.jpg
+[],train,image337794,337794,251,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_337794_251.jpg
+[],train,image324278,324278,99,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_324278_99.jpg
+[],train,image474548,474548,41,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_474548_41.jpg
+[],train,image353617,353617,160,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_353617_160.jpg
+[],train,image323811,323811,76,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_323811_76.jpg
+[],train,image496803,496803,205,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_496803_205.jpg
+[],train,image329673,329673,25,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_329673_25.jpg
+[],train,image435626,435626,56,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_435626_56.jpg
+[],train,image351777,351777,58,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_351777_58.jpg
+[],train,image324310,324310,21,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_324310_21.jpg
+[],train,image371633,371633,41,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_371633_41.jpg
+[],train,image427921,427921,50,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_427921_50.jpg
+[],train,image431775,431775,45,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_431775_45.jpg
+[],train,image361788,361788,48,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_361788_48.jpg
+[],train,image327843,327843,30,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_327843_30.jpg
+[],train,image381558,381558,95,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_381558_95.jpg
+[],train,image341917,341917,60,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_341917_60.jpg
+[],train,image388160,388160,214,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_388160_214.jpg
+[],train,image479181,479181,191,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_479181_191.jpg
+[],train,image325064,325064,210,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_325064_210.jpg
+[],train,image526734,526734,1,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_526734_1.jpg
+[],train,image373917,373917,89,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_373917_89.jpg
+[],train,image458035,458035,196,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_458035_196.jpg
+[],train,image596310,596310,69,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_596310_69.jpg
+[],train,image378308,378308,263,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_378308_263.jpg
+[],train,image407713,407713,32,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_407713_32.jpg
+[],train,image351399,351399,75,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_351399_75.jpg
+[],train,image362372,362372,191,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_362372_191.jpg
+[],train,image403277,403277,253,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_403277_253.jpg
+[],train,image340791,340791,226,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_340791_226.jpg
+[],train,image432724,432724,250,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_432724_250.jpg
+[],train,image437871,437871,242,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_437871_242.jpg
+[],train,image395094,395094,19,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_395094_19.jpg
+[],train,image460780,460780,79,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_460780_79.jpg
+[],train,image447067,447067,66,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_447067_66.jpg
+[],train,image359519,359519,232,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_359519_232.jpg
+[],train,image402121,402121,145,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_402121_145.jpg
+[],train,image555468,555468,259,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_555468_259.jpg
+[],train,image460269,460269,74,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_460269_74.jpg
+[],train,image455084,455084,35,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_455084_35.jpg
+[],train,image332910,332910,21,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_332910_21.jpg
+[],train,image507820,507820,57,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_507820_57.jpg
+[],train,image483414,483414,108,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_483414_108.jpg
+[],train,image331738,331738,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_331738_72.jpg
+[],train,image426485,426485,269,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_426485_269.jpg
+[],train,image580368,580368,56,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_580368_56.jpg
+[],train,image340437,340437,174,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_340437_174.jpg
+[],train,image522246,522246,90,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_522246_90.jpg
+[],train,image523218,523218,60,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_523218_60.jpg
+[],train,image357589,357589,18,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_357589_18.jpg
+[],train,image494287,494287,159,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_494287_159.jpg
+[],train,image555146,555146,38,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_555146_38.jpg
+[],train,image327507,327507,98,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_327507_98.jpg
+[],train,image447522,447522,86,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_447522_86.jpg
+[],train,image561489,561489,198,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_561489_198.jpg
+[],train,image475429,475429,115,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_475429_115.jpg
+[],train,image407717,407717,149,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_407717_149.jpg
+[],train,image559881,559881,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_559881_71.jpg
+[],train,image408577,408577,65,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_408577_65.jpg
+[],train,image589292,589292,103,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_589292_103.jpg
+[],train,image349707,349707,122,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_349707_122.jpg
+[],train,image438858,438858,57,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_438858_57.jpg
+[],train,image454404,454404,74,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_454404_74.jpg
+[],train,image379326,379326,226,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_379326_226.jpg
+[],train,image327858,327858,85,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_327858_85.jpg
+[],train,image484696,484696,26,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_484696_26.jpg
+[],train,image466684,466684,12,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_466684_12.jpg
+[],train,image411213,411213,188,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_411213_188.jpg
+[],train,image540384,540384,130,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_540384_130.jpg
+[],train,image390952,390952,3,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_390952_3.jpg
+[],train,image507562,507562,95,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_507562_95.jpg
+[],train,image428664,428664,220,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_428664_220.jpg
+[],train,image324954,324954,121,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_324954_121.jpg
+[],train,image602573,602573,157,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_602573_157.jpg
+[],train,image398676,398676,238,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_398676_238.jpg
+[],train,image405957,405957,240,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_405957_240.jpg
+[],train,image432350,432350,180,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_432350_180.jpg
+[],train,image578891,578891,155,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_578891_155.jpg
+[],train,image356830,356830,8,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_356830_8.jpg
+[],train,image469982,469982,25,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_469982_25.jpg
+[],train,image409803,409803,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_409803_71.jpg
+[],train,image424700,424700,118,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_424700_118.jpg
+[],train,image366210,366210,55,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_366210_55.jpg
+[],train,image439127,439127,184,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_439127_184.jpg
+[],train,image383161,383161,115,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_383161_115.jpg
+[],train,image332881,332881,111,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_332881_111.jpg
+[],train,image453754,453754,230,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_453754_230.jpg
+[],train,image346011,346011,77,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_346011_77.jpg
+[],train,image385953,385953,85,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_385953_85.jpg
+[],train,image337401,337401,256,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_337401_256.jpg
+[],train,image544171,544171,17,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_544171_17.jpg
+[],train,image541776,541776,30,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_541776_30.jpg
+[],train,image374953,374953,44,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_374953_44.jpg
+[],train,image350393,350393,64,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_350393_64.jpg
+[],train,image537910,537910,104,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_537910_104.jpg
+[],train,image501756,501756,41,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_501756_41.jpg
+[],train,image477976,477976,55,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_477976_55.jpg
+[],train,image511749,511749,166,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_511749_166.jpg
+[],train,image435097,435097,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_435097_22.jpg
+[],train,image428664,428664,40,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_428664_40.jpg
+[],train,image363342,363342,12,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_363342_12.jpg
+[],train,image368649,368649,120,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_368649_120.jpg
+[],train,image560691,560691,138,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_560691_138.jpg
+[],train,image543944,543944,75,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_543944_75.jpg
+[],train,image347644,347644,102,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_347644_102.jpg
+[],train,image590158,590158,107,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_590158_107.jpg
+[],train,image455554,455554,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_455554_80.jpg
+[],train,image341720,341720,158,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_341720_158.jpg
+[],train,image457556,457556,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_457556_72.jpg
+[],train,image515537,515537,6,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_515537_6.jpg
+[],train,image503264,503264,16,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_503264_16.jpg
+[],train,image336658,336658,222,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_336658_222.jpg
+[],train,image576658,576658,178,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_576658_178.jpg
+[],train,image503165,503165,244,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_503165_244.jpg
+[],train,image356409,356409,199,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_356409_199.jpg
+[],train,image413609,413609,103,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_413609_103.jpg
+[],train,image517622,517622,201,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_517622_201.jpg
+[],train,image400560,400560,55,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_400560_55.jpg
+[],train,image387395,387395,164,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_387395_164.jpg
+[],train,image332269,332269,242,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_332269_242.jpg
+[],train,image401456,401456,43,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_401456_43.jpg
+[],train,image465519,465519,47,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_465519_47.jpg
+[],train,image355515,355515,20,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_355515_20.jpg
+[],train,image349680,349680,12,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_349680_12.jpg
+[],train,image524950,524950,235,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_524950_235.jpg
+[],train,image407477,407477,77,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_407477_77.jpg
+[],train,image376988,376988,182,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_376988_182.jpg
+[],train,image361254,361254,61,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_361254_61.jpg
+[],train,image357965,357965,175,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_357965_175.jpg
+[],train,image347430,347430,104,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_347430_104.jpg
+[],train,image441396,441396,114,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_441396_114.jpg
+[],train,image430675,430675,36,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_430675_36.jpg
+[],train,image442307,442307,257,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_442307_257.jpg
+[],train,image427812,427812,38,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_427812_38.jpg
+[],train,image457326,457326,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_457326_72.jpg
+[],train,image346218,346218,40,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_346218_40.jpg
+[],train,image530867,530867,147,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_530867_147.jpg
+[],train,image559644,559644,231,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_559644_231.jpg
+[],train,image453300,453300,88,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_453300_88.jpg
+[],train,image399359,399359,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_399359_80.jpg
+[],train,image567909,567909,73,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_567909_73.jpg
+[],train,image359924,359924,170,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_359924_170.jpg
+[],train,image570662,570662,176,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_570662_176.jpg
+[],train,image385489,385489,185,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_385489_185.jpg
+[],train,image600612,600612,258,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_600612_258.jpg
+[],train,image585401,585401,203,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_585401_203.jpg
+[],train,image358489,358489,64,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_358489_64.jpg
+[],train,image572334,572334,114,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_572334_114.jpg
+[],train,image349493,349493,66,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_349493_66.jpg
+[],train,image389497,389497,157,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_389497_157.jpg
+[],train,image522543,522543,85,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_522543_85.jpg
+[],train,image439725,439725,40,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_439725_40.jpg
+[],train,image523342,523342,5,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_523342_5.jpg
+[],train,image549946,549946,62,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_549946_62.jpg
+[],train,image460381,460381,10,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_460381_10.jpg
+[],train,image503014,503014,89,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_503014_89.jpg
+[],train,image404284,404284,258,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_404284_258.jpg
+[],train,image372107,372107,184,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_372107_184.jpg
+[],train,image436203,436203,66,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_436203_66.jpg
+[],train,image360324,360324,269,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_360324_269.jpg
+[],train,image507789,507789,20,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_507789_20.jpg
+[],train,image388225,388225,27,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_388225_27.jpg
+[],train,image348208,348208,39,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_348208_39.jpg
+[],train,image385237,385237,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_385237_72.jpg
+[],train,image401122,401122,83,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_401122_83.jpg
+[],train,image468500,468500,150,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_468500_150.jpg
+[],train,image459669,459669,6,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_459669_6.jpg
+[],train,image461629,461629,55,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_461629_55.jpg
+[],train,image529697,529697,238,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_529697_238.jpg
+[],train,image417330,417330,82,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_417330_82.jpg
+[],train,image558336,558336,46,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_558336_46.jpg
+[],train,image443047,443047,87,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_443047_87.jpg
+[],train,image409522,409522,93,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_409522_93.jpg
+[],train,image366923,366923,45,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_366923_45.jpg
+[],train,image443047,443047,92,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_443047_92.jpg
+[],train,image393352,393352,164,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_393352_164.jpg
+[],train,image335193,335193,104,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_335193_104.jpg
+[],train,image355992,355992,161,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_355992_161.jpg
+[],train,image431508,431508,105,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_431508_105.jpg
+[],train,image424180,424180,161,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_424180_161.jpg
+[],train,image378251,378251,204,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_378251_204.jpg
+[],train,image357923,357923,50,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_357923_50.jpg
+[],train,image446774,446774,79,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_446774_79.jpg
+[],train,image337418,337418,29,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_337418_29.jpg
+[],train,image433829,433829,237,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_433829_237.jpg
+[],train,image405677,405677,218,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_405677_218.jpg
+[],train,image368597,368597,77,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_368597_77.jpg
+[],train,image350312,350312,63,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_350312_63.jpg
+[],train,image538807,538807,152,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_538807_152.jpg
+[],train,image565216,565216,2,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_565216_2.jpg
+[],train,image545793,545793,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_545793_0.jpg
+[],train,image523429,523429,184,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_523429_184.jpg
+[],train,image433237,433237,192,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_433237_192.jpg
+[],train,image371953,371953,94,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_371953_94.jpg
+[],train,image362254,362254,268,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_362254_268.jpg
+[],train,image472951,472951,44,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_472951_44.jpg
+[],train,image356312,356312,113,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_356312_113.jpg
+[],train,image441933,441933,219,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_441933_219.jpg
+[],train,image551721,551721,60,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_551721_60.jpg
+[],train,image406794,406794,76,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_406794_76.jpg
+[],train,image533349,533349,163,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_533349_163.jpg
+[],train,image453103,453103,88,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_453103_88.jpg
+[],train,image566414,566414,145,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_566414_145.jpg
+[],train,image445836,445836,182,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_445836_182.jpg
+[],train,image549931,549931,146,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_549931_146.jpg
+[],train,image537132,537132,32,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_537132_32.jpg
+[],train,image487489,487489,25,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_487489_25.jpg
+[],train,image411773,411773,117,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_411773_117.jpg
+[],train,image468100,468100,267,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_468100_267.jpg
+[],train,image379449,379449,145,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_379449_145.jpg
+[],train,image475850,475850,113,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_475850_113.jpg
+[],train,image369431,369431,237,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_369431_237.jpg
+[],train,image385425,385425,100,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_385425_100.jpg
+[],train,image340553,340553,138,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_340553_138.jpg
+[],train,image560691,560691,41,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_560691_41.jpg
+[],train,image537910,537910,75,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_537910_75.jpg
+[],train,image369387,369387,140,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_369387_140.jpg
+[],train,image371990,371990,225,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_371990_225.jpg
+[],train,image502868,502868,59,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_502868_59.jpg
+[],train,image415006,415006,6,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_415006_6.jpg
+[],train,image362248,362248,43,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_362248_43.jpg
+[],train,image470310,470310,64,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_470310_64.jpg
+[],train,image540181,540181,55,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_540181_55.jpg
+[],train,image419606,419606,144,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_419606_144.jpg
+[],train,image370460,370460,191,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_370460_191.jpg
+[],train,image375436,375436,79,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_375436_79.jpg
+[],train,image350455,350455,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_350455_22.jpg
+[],train,image353327,353327,251,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_353327_251.jpg
+[],train,image377387,377387,81,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_377387_81.jpg
+[],train,image423622,423622,90,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_423622_90.jpg
+[],train,image475253,475253,6,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_475253_6.jpg
+[],train,image498364,498364,221,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_498364_221.jpg
+[],train,image478027,478027,190,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_478027_190.jpg
+[],train,image366042,366042,84,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_366042_84.jpg
+[],train,image523539,523539,268,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_523539_268.jpg
+[],train,image455541,455541,132,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_455541_132.jpg
+[],train,image399557,399557,118,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_399557_118.jpg
+[],train,image469615,469615,124,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_469615_124.jpg
+[],train,image488888,488888,127,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_488888_127.jpg
+[],train,image375148,375148,24,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_375148_24.jpg
+[],train,image544398,544398,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_544398_71.jpg
+[],train,image400471,400471,252,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_400471_252.jpg
+[],train,image492496,492496,135,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_492496_135.jpg
+[],train,image562427,562427,109,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_562427_109.jpg
+[],train,image330253,330253,68,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_330253_68.jpg
+[],train,image424890,424890,70,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_424890_70.jpg
+[],train,image454253,454253,12,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_454253_12.jpg
+[],train,image591600,591600,175,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_591600_175.jpg
+[],train,image360289,360289,178,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_360289_178.jpg
+[],train,image478091,478091,50,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_478091_50.jpg
+[],train,image504741,504741,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_504741_71.jpg
+[],train,image397578,397578,106,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_397578_106.jpg
+[],train,image440207,440207,63,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_440207_63.jpg
+[],train,image327681,327681,8,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_327681_8.jpg
+[],train,image354480,354480,24,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_354480_24.jpg
+[],train,image522609,522609,18,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_522609_18.jpg
+[],train,image416490,416490,35,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_416490_35.jpg
+[],train,image421129,421129,9,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_421129_9.jpg
+[],train,image412793,412793,35,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_412793_35.jpg
+[],train,image503036,503036,265,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_503036_265.jpg
+[],train,image446667,446667,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_446667_80.jpg
+[],train,image356321,356321,92,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_356321_92.jpg
+[],train,image583421,583421,10,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_583421_10.jpg
+[],train,image461253,461253,157,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_461253_157.jpg
+[],train,image355662,355662,154,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_355662_154.jpg
+[],train,image541886,541886,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_541886_72.jpg
+[],train,image579219,579219,64,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_579219_64.jpg
+[],train,image444733,444733,229,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_444733_229.jpg
+[],train,image453052,453052,62,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_453052_62.jpg
+[],train,image475185,475185,5,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_475185_5.jpg
+[],train,image410413,410413,19,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_410413_19.jpg
+[],train,image496421,496421,69,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_496421_69.jpg
+[],train,image486500,486500,204,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_486500_204.jpg
+[],train,image554176,554176,160,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_554176_160.jpg
+[],train,image330994,330994,114,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_330994_114.jpg
+[],train,image560133,560133,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_560133_71.jpg
+[],train,image513940,513940,21,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_513940_21.jpg
+[],train,image378754,378754,244,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_378754_244.jpg
+[],train,image361638,361638,68,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_361638_68.jpg
+[],train,image523688,523688,124,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_523688_124.jpg
+[],train,image333722,333722,151,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_333722_151.jpg
+[],train,image571668,571668,105,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_571668_105.jpg
+[],train,image556844,556844,259,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_556844_259.jpg
+[],train,image395883,395883,171,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_395883_171.jpg
+[],train,image402721,402721,21,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_402721_21.jpg
+[],train,image511294,511294,65,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_511294_65.jpg
+[],train,image442459,442459,254,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_442459_254.jpg
+[],train,image591459,591459,19,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_591459_19.jpg
+[],train,image329011,329011,41,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_329011_41.jpg
+[],train,image426245,426245,78,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_426245_78.jpg
+[],train,image447563,447563,48,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_447563_48.jpg
+[],train,image412497,412497,60,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_412497_60.jpg
+[],train,image408319,408319,63,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_408319_63.jpg
+[],train,image391516,391516,109,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_391516_109.jpg
+[],train,image573410,573410,145,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_573410_145.jpg
+[],train,image373803,373803,1,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_373803_1.jpg
+[],train,image400634,400634,109,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_400634_109.jpg
+[],train,image428378,428378,36,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_428378_36.jpg
+[],train,image417724,417724,43,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_417724_43.jpg
+[],train,image357544,357544,193,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_357544_193.jpg
+[],train,image499003,499003,152,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_499003_152.jpg
+[],train,image350062,350062,236,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_350062_236.jpg
+[],train,image434723,434723,199,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_434723_199.jpg
+[],train,image361380,361380,79,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_361380_79.jpg
+[],train,image357067,357067,1,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_357067_1.jpg
+[],train,image413536,413536,95,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_413536_95.jpg
+[],train,image331958,331958,122,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_331958_122.jpg
+[],train,image476377,476377,117,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_476377_117.jpg
+[],train,image464478,464478,2,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_464478_2.jpg
+[],train,image555327,555327,32,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_555327_32.jpg
+[],train,image362683,362683,101,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_362683_101.jpg
+[],train,image346911,346911,199,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_346911_199.jpg
+[],train,image522070,522070,202,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_522070_202.jpg
+[],train,image395672,395672,102,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_395672_102.jpg
+[],train,image400393,400393,257,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_400393_257.jpg
+[],train,image418955,418955,204,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_418955_204.jpg
+[],train,image482595,482595,41,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_482595_41.jpg
+[],train,image575468,575468,243,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_575468_243.jpg
+[],train,image336089,336089,226,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_336089_226.jpg
+[],train,image493116,493116,47,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_493116_47.jpg
+[],train,image511147,511147,191,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_511147_191.jpg
+[],train,image433864,433864,172,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_433864_172.jpg
+[],train,image412847,412847,61,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_412847_61.jpg
+[],train,image407326,407326,253,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_407326_253.jpg
+[],train,image525348,525348,137,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_525348_137.jpg
+[],train,image573257,573257,41,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_573257_41.jpg
+[],train,image390474,390474,41,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_390474_41.jpg
+[],train,image346114,346114,93,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_346114_93.jpg
+[],train,image406591,406591,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_406591_0.jpg
+[],train,image540109,540109,50,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_540109_50.jpg
+[],train,image503434,503434,20,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_503434_20.jpg
+[],train,image403637,403637,84,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_403637_84.jpg
+[],train,image369820,369820,246,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_369820_246.jpg
+[],train,image404980,404980,168,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_404980_168.jpg
+[],train,image368977,368977,217,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_368977_217.jpg
+[],train,image397283,397283,269,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_397283_269.jpg
+[],train,image393373,393373,158,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_393373_158.jpg
+[],train,image433829,433829,57,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_433829_57.jpg
+[],train,image517622,517622,21,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_517622_21.jpg
+[],train,image546378,546378,194,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_546378_194.jpg
+[],train,image585276,585276,8,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_585276_8.jpg
+[],train,image363973,363973,36,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_363973_36.jpg
+[],train,image498553,498553,122,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_498553_122.jpg
+[],train,image348879,348879,99,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_348879_99.jpg
+[],train,image436508,436508,204,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_436508_204.jpg
+[],train,image360763,360763,114,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_360763_114.jpg
+[],train,image324623,324623,260,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_324623_260.jpg
+[],train,image439127,439127,4,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_439127_4.jpg
+[],train,image440807,440807,38,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_440807_38.jpg
+[],train,image358242,358242,257,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_358242_257.jpg
+[],train,image485962,485962,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_485962_22.jpg
+[],train,image550626,550626,89,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_550626_89.jpg
+[],train,image535067,535067,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_535067_72.jpg
+[],train,image376415,376415,65,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_376415_65.jpg
+[],train,image348867,348867,163,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_348867_163.jpg
+[],train,image387256,387256,73,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_387256_73.jpg
+[],train,image366891,366891,45,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_366891_45.jpg
+[],train,image333609,333609,167,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_333609_167.jpg
+[],train,image324588,324588,67,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_324588_67.jpg
+[],train,image428464,428464,15,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_428464_15.jpg
+[],train,image386452,386452,26,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_386452_26.jpg
+[],train,image409364,409364,20,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_409364_20.jpg
+[],train,image415835,415835,148,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_415835_148.jpg
+[],train,image541189,541189,247,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_541189_247.jpg
+[],train,image351467,351467,107,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_351467_107.jpg
+[],train,image530853,530853,136,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_530853_136.jpg
+[],train,image346311,346311,33,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_346311_33.jpg
+[],train,image326705,326705,34,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_326705_34.jpg
+[],train,image365697,365697,120,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_365697_120.jpg
+[],train,image367996,367996,45,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_367996_45.jpg
+[],train,image472571,472571,17,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_472571_17.jpg
+[],train,image344861,344861,88,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_344861_88.jpg
+[],train,image472654,472654,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_472654_71.jpg
+[],train,image330893,330893,6,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_330893_6.jpg
+[],train,image453927,453927,159,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_453927_159.jpg
+[],train,image372769,372769,214,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_372769_214.jpg
+[],train,image379898,379898,69,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_379898_69.jpg
+[],train,image396286,396286,112,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_396286_112.jpg
+[],train,image383505,383505,212,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_383505_212.jpg
+[],train,image520288,520288,172,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_520288_172.jpg
+[],train,image560455,560455,57,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_560455_57.jpg
+[],train,image325732,325732,93,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_325732_93.jpg
+[],train,image560547,560547,88,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_560547_88.jpg
+[],train,image582332,582332,102,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_582332_102.jpg
+[],train,image542837,542837,31,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_542837_31.jpg
+[],train,image580671,580671,4,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_580671_4.jpg
+[],train,image366418,366418,44,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_366418_44.jpg
+[],train,image450387,450387,262,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_450387_262.jpg
+[],train,image485804,485804,251,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_485804_251.jpg
+[],train,image495295,495295,40,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_495295_40.jpg
+[],train,image456439,456439,182,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_456439_182.jpg
+[],train,image344737,344737,252,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_344737_252.jpg
+[],train,image445861,445861,71,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_445861_71.jpg
+[],train,image420367,420367,59,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_420367_59.jpg
+[],train,image373682,373682,39,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_373682_39.jpg
+[],train,image352344,352344,105,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_352344_105.jpg
+[],train,image498664,498664,9,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_498664_9.jpg
+[],train,image505059,505059,201,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_505059_201.jpg
+[],train,image501861,501861,185,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_501861_185.jpg
+[],train,image522878,522878,218,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_522878_218.jpg
+[],train,image510036,510036,55,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_510036_55.jpg
+[],train,image373616,373616,126,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_373616_126.jpg
+[],train,image466556,466556,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_466556_22.jpg
+[],train,image470710,470710,49,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_470710_49.jpg
+[],train,image467757,467757,87,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_467757_87.jpg
+[],train,image411081,411081,268,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_411081_268.jpg
+[],train,image535067,535067,252,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_535067_252.jpg
+[],train,image427245,427245,244,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_427245_244.jpg
+[],train,image361410,361410,217,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_361410_217.jpg
+[],train,image326526,326526,130,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_326526_130.jpg
+[],train,image502887,502887,3,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_502887_3.jpg
+[],train,image338285,338285,131,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_338285_131.jpg
+[],train,image382728,382728,96,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_382728_96.jpg
+[],train,image477906,477906,181,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_477906_181.jpg
+[],train,image381732,381732,32,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_381732_32.jpg
+[],train,image451075,451075,166,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_451075_166.jpg
+[],train,image381471,381471,81,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_381471_81.jpg
+[],train,image362419,362419,100,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_362419_100.jpg
+[],train,image408071,408071,256,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_408071_256.jpg
+[],train,image546021,546021,249,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_546021_249.jpg
+[],train,image388589,388589,98,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_388589_98.jpg
+[],train,image367049,367049,81,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_367049_81.jpg
+[],train,image435067,435067,41,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_435067_41.jpg
+[],train,image414989,414989,73,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_414989_73.jpg
+[],train,image389735,389735,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_389735_0.jpg
+[],train,image324682,324682,101,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_324682_101.jpg
+[],train,image588222,588222,41,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_588222_41.jpg
+[],train,image345893,345893,9,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_345893_9.jpg
+[],train,image389427,389427,58,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_389427_58.jpg
+[],train,image484697,484697,76,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_484697_76.jpg
+[],train,image576773,576773,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_576773_22.jpg
+[],train,image424421,424421,102,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_424421_102.jpg
+[],train,image388906,388906,16,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_388906_16.jpg
+[],train,image341285,341285,94,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_341285_94.jpg
+[],train,image595246,595246,175,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_595246_175.jpg
+[],train,image337344,337344,85,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_337344_85.jpg
+[],train,image323077,323077,169,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_323077_169.jpg
+[],train,image542615,542615,257,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_542615_257.jpg
+[],train,image422692,422692,147,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_422692_147.jpg
+[],train,image531104,531104,216,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_531104_216.jpg
+[],train,image500686,500686,14,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_500686_14.jpg
+[],train,image424744,424744,268,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_424744_268.jpg
+[],train,image495911,495911,242,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_495911_242.jpg
+[],train,image359936,359936,166,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_359936_166.jpg
+[],train,image367613,367613,167,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_367613_167.jpg
+[],train,image570841,570841,17,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_570841_17.jpg
+[],train,image491350,491350,134,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_491350_134.jpg
+[],train,image422265,422265,157,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_422265_157.jpg
+[],train,image380277,380277,42,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_380277_42.jpg
+[],train,image461159,461159,2,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_461159_2.jpg
+[],train,image447134,447134,13,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_447134_13.jpg
+[],train,image534103,534103,20,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_train/strtV_image_534103_20.jpg
+[],valid,image522320,522320,132,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_522320_132.jpg
+[],valid,image558842,558842,66,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_558842_66.jpg
+[],valid,image428539,428539,24,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_428539_24.jpg
+[],valid,image568596,568596,114,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_568596_114.jpg
+[],valid,image367729,367729,177,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_367729_177.jpg
+[],valid,image377062,377062,245,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_377062_245.jpg
+[],valid,image395343,395343,116,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_395343_116.jpg
+[],valid,image436747,436747,62,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_436747_62.jpg
+[],valid,image570981,570981,22,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_570981_22.jpg
+[],valid,image371990,371990,45,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_371990_45.jpg
+[],valid,image502068,502068,57,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_502068_57.jpg
+[],valid,image599266,599266,130,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_599266_130.jpg
+[],valid,image394934,394934,1,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_394934_1.jpg
+[],valid,image441306,441306,79,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_441306_79.jpg
+[],valid,image352473,352473,168,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_352473_168.jpg
+[],valid,image403637,403637,95,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_403637_95.jpg
+[],valid,image346011,346011,77,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_346011_77.jpg
+[],valid,image546378,546378,14,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_546378_14.jpg
+[],valid,image558866,558866,188,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_558866_188.jpg
+[],valid,image565123,565123,72,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_565123_72.jpg
+[],valid,image350030,350030,136,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_350030_136.jpg
+[],valid,image574704,574704,102,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_574704_102.jpg
+[],valid,image479331,479331,102,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_479331_102.jpg
+[],valid,image595862,595862,64,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_595862_64.jpg
+[],valid,image438368,438368,84,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_438368_84.jpg
+[],valid,image530997,530997,32,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_530997_32.jpg
+[],valid,image479229,479229,49,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_479229_49.jpg
+[],valid,image549263,549263,5,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_549263_5.jpg
+[],valid,image452485,452485,7,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_452485_7.jpg
+[],valid,image398068,398068,163,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_398068_163.jpg
+[],valid,image352692,352692,64,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_352692_64.jpg
+[],valid,image477023,477023,53,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_477023_53.jpg
+[],valid,image448902,448902,155,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_448902_155.jpg
+[],valid,image355309,355309,255,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_355309_255.jpg
+[],valid,image578108,578108,29,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_578108_29.jpg
+[],valid,image420531,420531,203,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_420531_203.jpg
+[],valid,image475831,475831,90,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_475831_90.jpg
+[],valid,image354054,354054,6,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_354054_6.jpg
+[],valid,image490145,490145,92,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_490145_92.jpg
+[],valid,image397260,397260,143,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_397260_143.jpg
+[],valid,image592800,592800,192,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_592800_192.jpg
+[],valid,image505291,505291,265,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_505291_265.jpg
+[],valid,image410157,410157,170,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_410157_170.jpg
+[],valid,image367730,367730,19,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_367730_19.jpg
+[],valid,image466359,466359,10,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_466359_10.jpg
+[],valid,image558818,558818,1,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_558818_1.jpg
+[],valid,image525395,525395,184,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_525395_184.jpg
+[],valid,image376164,376164,116,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_376164_116.jpg
+[],valid,image538327,538327,70,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_538327_70.jpg
+[],valid,image404796,404796,78,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_404796_78.jpg
+[],valid,image361444,361444,7,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_361444_7.jpg
+[],valid,image545042,545042,218,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_545042_218.jpg
+[],valid,image365621,365621,222,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_365621_222.jpg
+[],valid,image517209,517209,141,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_517209_141.jpg
+[],valid,image517108,517108,131,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_517108_131.jpg
+[],valid,image486729,486729,153,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_486729_153.jpg
+[],valid,image395672,395672,102,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_395672_102.jpg
+[],valid,image575096,575096,70,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_575096_70.jpg
+[],valid,image595360,595360,249,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_595360_249.jpg
+[],valid,image577879,577879,100,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_577879_100.jpg
+[],valid,image433829,433829,57,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_433829_57.jpg
+[],valid,image385004,385004,168,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_385004_168.jpg
+[],valid,image348896,348896,135,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_348896_135.jpg
+[],valid,image475732,475732,20,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_475732_20.jpg
+[],valid,image583349,583349,67,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_583349_67.jpg
+[],valid,image569693,569693,145,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_569693_145.jpg
+[],valid,image339598,339598,93,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_339598_93.jpg
+[],valid,image427542,427542,80,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_427542_80.jpg
+[],valid,image455546,455546,59,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_455546_59.jpg
+[],valid,image405957,405957,60,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_405957_60.jpg
+[],valid,image482729,482729,69,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_482729_69.jpg
+[],valid,image422693,422693,171,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_422693_171.jpg
+[],valid,image436239,436239,115,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_436239_115.jpg
+[],valid,image462664,462664,157,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_462664_157.jpg
+[],valid,image430896,430896,12,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_430896_12.jpg
+[],valid,image426651,426651,21,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_426651_21.jpg
+[],valid,image371525,371525,73,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_371525_73.jpg
+[],valid,image409223,409223,0,/home/hinux/Desktop/project04/checking_folder/filtered_img_camera/no_camera_valid/strtV_image_409223_0.jpg
