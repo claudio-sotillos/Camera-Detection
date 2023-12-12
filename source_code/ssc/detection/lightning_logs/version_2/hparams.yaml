@@ -1,0 +1,24 @@
+save_dir: /share/data/camera/sandbox
+tb_path: /share/data/camera/sandbox/tb
+exp_name: 0423new08
+model: FasterRCNN
+task: detection
+gpus:
+- 1
+pretrained: true
+batch_size: 8
+accelerator: ddp
+gradient_clip_val: 0.5
+max_epochs: 100
+learning_rate: 1.0e-05
+patience: 30
+limit_train_batches: 1.0
+limit_val_batches: 1.0
+limit_test_batches: 1.0
+weights_summary: null
+num_classes: 2
+dataset_name: camera-detection-new
+visualize: true
+deploy: true
+deploy_meta_path: /home/hinux/Desktop/project04/checking_folder/TEST_200.csv
+test_batch_size: 1
